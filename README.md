@@ -10,12 +10,12 @@ This project analyzes a retail store’s customer data to identify customer segm
 - Contains missing values  
 - Missing value analysis performed per column  
 
-## Python Work
+## Python 
 - Data cleaning and preprocessing  
 - K-Means clustering for customer segmentation  
 - Visualizations using Matplotlib & Seaborn  
 
-## Power BI Work
+## Power BI 
 - Created 2–3 new DAX measures and used Power Query for data transformation  
 - Developed an interactive dashboard with:  
   - Column charts and pie charts  
