@@ -1,0 +1,1001 @@
+customer_id,Name,age,gender,phone_number,customer_location,purchase_date,product_category,purchase_amount,preferred_payment_method,loyality_score
+1,Heddi Franzewitch,45,,602-122-2212,Vizag,27.10.2021,Books,85149,credit card,38
+2,Elva McIlmurray,17,,935-456-3692,Guntur,16.2.2022,Electronics,38171,CAsh,51
+3,Hobard Jaan,20,Male,208-197-1165,,18.9.2023,Groceries,15315,CAsh,3
+4,Rozanna Birdsall,44,femal,572-520-0369,Vijayawada,3.9.2023,Grocy,43680,credit card,88
+5,Jermaine Wicken,20,,571-488-3899,Vijayawada,12.6.2021,electronics,87037,mobile payment,41
+6,Karl Oxshott,50,Male,949-785-8070,Chittor,4.7.2022,electronics,73376,CAsh,29
+7,Ronni Sorton,15,femal,342-330-9538,Vizag,27.3.2021,Groceries,93670,credit card,35
+8,Tobie Binnall,27,Male,194-871-9457,Vizag,23.2.2021,Clothing,50705,CAsh,84
+9,Cassy Garwood,39,femal,939-235-1792,Vijayawada,15.7.2021,Toys,86705,mobile payment,20
+10,Beitris Kimblen,42,Female,768-504-2064,Vizag,23.9.2022,Toys,57545,cash,71
+11,Brynna Feasley,53,Female,916-422-1626,Kurnool,23.4.2023,Grocy,45093,credit card,54
+12,Yehudi Petrillo,46,,412-964-4195,Kurnool,17.10.2023,Clothing,28942,credit card,28
+13,Cale Haddick,41,Female,625-156-6035,Chittor,11.9.2022,Home Appliances,16870,CAsh,46
+14,Sheffie Jorissen,40,MAle,557-458-5991,KUrnool,24.4.2022,electronics,19315,CAsh,50
+15,Jeno Burberry,40,,157-720-5568,Kurnool,27.1.2023,Toys,53286,mobile payment,16
+16,Devy Salsberg,31,MAle,906-521-2016,Vijayawada,1.3.2022,electronics,72619,CAsh,65
+17,Jacklyn Tuer,32,MAle,647-502-0567,Chittor,28.7.2022,Toys,89891,CAsh,98
+18,Revkah Whyler,60,MAle,783-165-8547,Vizag,15.4.2022,Home Appliances,,credit card,89
+19,Nannette Clarkson,59,,197-262-8224,VIJayawada,8.7.2021,Groceries,39781,cash,8
+20,Emili Durban,31,FEmale,635-119-9453,KUrnool,6.2.2021,,84761,credit card,26
+21,Hedwig Meijer,21,,718-459-1107,Vijayawada,23.10.2021,electronics,24320,CAsh,32
+22,Bobbee Jacox,33,FEmale,189-649-9036,Kurnool,28.12.2021,electronics,44892,mobile payment,86
+23,Lynette Labbati,27,Male,325-330-9546,VIJayawada,24.12.2022,Books,50322,credit card,96
+24,Brigida Pickthorn,43,MAle,970-447-8529,,1.4.2021,Books,14285,cash,29
+25,Benji Selland,46,femal,808-987-4535,VIJayawada,17.1.2021,Clothing,72542,credit card,48
+26,Vita Delgaty,24,,628-118-3748,Kurnool,15.5.2022,Electronics,18232,credit card,43
+27,Kahlil Adne,15,Male,790-554-4584,,21.10.2023,Electronics,32605,cash,73
+28,Ninette Simonetti,59,Female,336-735-9138,Vijayawada,2.10.2021,Toys,30043,cash,43
+29,Hinze Petrie,28,,877-932-7933,Vijayawada,19.5.2021,Home Appliances,84285,cash,25
+30,Blancha Jannings,16,FEmale,730-903-8333,VIJayawada,20.7.2021,Clothing,26743,cash,51
+31,Hilario McFadden,40,Male,579-171-1894,KUrnool,4.10.2021,Grocy,98458,mobile payment,3
+32,Catrina Scorrer,52,,307-617-0119,Vijayawada,4.6.2023,Home Appliances,91083,CAsh,47
+33,Ashly Stalf,26,Female,129-981-8640,KUrnool,2.11.2021,Books,83192,credit card,64
+34,Carlie Asp,41,Female,357-530-4035,Kurnool,4.7.2022,Toys,41145,cash,89
+35,Frazer Wathen,36,,545-635-3783,KUrnool,12.10.2022,books,29039,cash,100
+36,Morey Paragreen,48,Female,698-454-8109,Guntur,23.10.2023,Grocy,51832,CAsh,14
+37,Otho Mulgrew,36,Male,537-930-6262,Vijayawada,2.8.2021,books,67054,CAsh,17
+38,Noble Mapham,55,FEmale,660-952-1739,Guntur,13.3.2021,Home Appliances,89368,cash,41
+39,Caroline Dingwall,46,Female,233-965-8869,Guntur,29.11.2021,books,90665,CAsh,53
+40,Abbie Cason,31,Female,265-719-9274,Chittor,15.2.2021,Grocy,24440,credit card,83
+41,Laurie Ruger,20,FEmale,369-598-1440,VIJayawada,15.5.2021,Grocy,13655,credit card,75
+42,Marianna Eliasen,42,Female,663-399-5138,Guntur,3.8.2021,electronics,43371,credit card,96
+43,Dottie Herculson,55,,490-852-9348,KUrnool,31.12.2021,Toys,15802,mobile payment,84
+44,Timoteo Hurdiss,15,Male,976-576-4656,VIJayawada,5.11.2021,Electronics,17408,cash,97
+45,Logan Huggons,45,MAle,528-873-6340,Vizag,6.9.2022,Clothing,60320,CAsh,86
+46,Joelynn Lynagh,49,MAle,948-442-8601,KUrnool,5.11.2023,Books,83020,CAsh,20
+47,Aylmar Lindroos,36,MAle,818-746-8469,KUrnool,2.2.2021,,,cash,91
+48,Melvyn Trickett,57,Male,348-178-3447,Chittor,13.1.2023,books,58401,cash,58
+49,Flossy Ulyet,29,MAle,194-904-9313,Vijayawada,13.6.2021,books,11362,cash,47
+50,Aaren Childrens,59,Male,832-787-5233,Kurnool,13.9.2021,Books,18086,mobile payment,2
+51,Archy Dickings,23,,242-446-2633,Guntur,15.5.2023,,82319,mobile payment,61
+52,Antoinette Goldine,38,femal,892-487-3539,VIJayawada,16.9.2022,books,18732,cash,30
+53,Shalna Pischof,50,,526-707-8338,,15.1.2021,Books,53938,mobile payment,99
+54,Liane O'Collopy,44,MAle,505-897-0063,,4.1.2023,Electronics,64322,mobile payment,85
+55,Whitman Dudney,43,femal,525-439-3375,Vizag,24.5.2023,Grocy,85599,credit card,41
+56,Adelice O'Loinn,32,,667-431-7824,Vizag,4.3.2023,Electronics,87300,credit card,26
+57,Ruth Haet,52,FEmale,277-481-3338,Kurnool,4.5.2022,Toys,93348,mobile payment,88
+58,Trumann Pakeman,27,FEmale,815-149-3574,Guntur,7.2.2022,Groceries,13529,cash,4
+59,Blair Lewinton,35,Male,606-920-6067,Chittor,15.11.2022,Toys,29258,CAsh,22
+60,Bibbie Seelbach,55,,988-191-9597,Vijayawada,25.1.2021,Toys,80662,credit card,26
+61,Yul Alps,50,MAle,140-838-9747,,11.3.2022,Groceries,91356,cash,76
+62,Dorrie Harnott,30,femal,363-860-2303,VIJayawada,26.3.2021,Grocy,96203,CAsh,29
+63,Lacy Chalfont,40,Female,680-711-6406,Vijayawada,19.5.2023,Groceries,44929,CAsh,24
+64,Danella Jeannaud,19,Male,118-288-7449,KUrnool,17.4.2022,,62301,mobile payment,91
+65,Peria Tytherton,37,Female,796-672-4071,Chittor,22.2.2022,Toys,98333,cash,39
+66,Sidonia Ormesher,20,MAle,548-385-1544,,15.10.2022,electronics,70567,credit card,62
+67,Mikey Hindrich,43,FEmale,199-451-5965,Chittor,28.9.2022,Toys,75213,credit card,53
+68,Jacinta Jope,51,MAle,323-572-5740,Chittor,27.1.2021,Books,54727,cash,35
+69,Theodor Verheijden,31,,414-226-3201,Vijayawada,20.6.2023,Groceries,80357,credit card,56
+70,Vanya Warlock,42,Female,706-825-5204,KUrnool,24.4.2021,Groceries,48952,mobile payment,85
+71,Raymond Charnick,27,Female,660-979-9309,Guntur,12.6.2021,Books,76828,cash,43
+72,Val Lesor,47,Male,110-402-9396,Guntur,7.8.2022,,23638,mobile payment,7
+73,Nedda Stoak,47,femal,467-758-4065,Kurnool,4.6.2023,Groceries,79636,credit card,29
+74,Franky Salway,26,FEmale,389-785-8318,Kurnool,8.9.2023,Home Appliances,,CAsh,69
+75,Nevile Schulze,58,,270-147-2224,Guntur,5.9.2022,Books,96733,cash,60
+76,Ludwig Petrovsky,53,Male,247-475-2401,VIJayawada,2.12.2022,Home Appliances,86648,credit card,69
+77,Niven todor,35,,693-983-9783,Vijayawada,7.6.2021,Electronics,,credit card,11
+78,Jayson Newtown,59,MAle,761-282-3799,VIJayawada,1.12.2021,Grocy,72520,cash,57
+79,Karrie Consadine,53,Male,682-484-0088,Kurnool,1.8.2021,Electronics,59187,credit card,60
+80,Durward Leighfield,32,FEmale,203-503-7392,Vijayawada,20.9.2022,books,12202,mobile payment,64
+81,Vivian Willarton,51,FEmale,546-399-0817,KUrnool,3.9.2021,Grocy,92174,CAsh,19
+82,Sarine Warton,53,MAle,718-676-2690,Kurnool,21.11.2021,Groceries,28029,credit card,54
+83,Joane Garces,36,FEmale,860-428-3051,Kurnool,22.10.2022,Grocy,23005,cash,100
+84,Cherin Mc-Kerley,19,MAle,514-540-6204,Kurnool,15.5.2021,,31241,credit card,45
+85,Jami Greenshields,32,FEmale,205-823-4939,KUrnool,9.9.2022,Home Appliances,42626,mobile payment,44
+86,Zeke Harbisher,19,femal,630-916-3418,Guntur,20.5.2023,,92333,cash,85
+87,Inna Dykins,55,Female,919-459-8588,Vijayawada,21.4.2023,,20089,CAsh,60
+88,Fenelia Fulcher,52,femal,370-817-3000,KUrnool,29.8.2021,Home Appliances,66579,mobile payment,88
+89,Michale Pavlovsky,49,Female,637-703-6425,Vizag,30.11.2023,Electronics,95885,cash,56
+90,Weylin Godspede,50,Female,538-833-1084,Guntur,15.6.2023,Clothing,23631,CAsh,20
+91,Cortney Boyse,19,FEmale,354-555-7282,Vijayawada,11.11.2023,Clothing,19184,credit card,22
+92,Baily Weadick,52,,479-387-3951,VIJayawada,23.3.2022,electronics,67798,CAsh,72
+93,Tabbie Pierrepoint,25,MAle,110-253-8118,Kurnool,2.6.2021,Electronics,64634,mobile payment,25
+94,Rica Dimitrie,23,Male,909-434-7015,Kurnool,26.9.2022,Grocy,51286,mobile payment,18
+95,Bruno MacEnelly,54,Female,517-864-1512,Kurnool,22.10.2023,Clothing,62206,mobile payment,81
+96,Dianne Ashfold,45,FEmale,254-321-0611,Kurnool,24.9.2022,Electronics,49535,credit card,81
+97,Lazaro Spillane,55,Female,761-396-1142,KUrnool,9.12.2021,Groceries,46534,credit card,78
+98,Cherry Mizen,33,Male,330-495-9387,KUrnool,9.11.2021,books,27568,cash,89
+99,Tiphanie Birchall,21,MAle,949-309-6527,Guntur,28.12.2023,books,88258,credit card,77
+100,Charlton Meysham,30,Male,559-822-3172,Kurnool,20.10.2023,Clothing,61565,mobile payment,22
+101,Levin Luke,53,Female,110-888-5850,Vizag,2.12.2022,Grocy,81019,cash,78
+102,Deni Marston,46,MAle,776-791-2995,Vijayawada,26.10.2023,Grocy,27313,CAsh,67
+103,Ruben Applegate,43,FEmale,377-549-2193,,23.4.2022,Books,77655,CAsh,55
+104,Jenn Fattorini,16,MAle,340-781-9260,Chittor,11.5.2023,Electronics,29142,cash,6
+105,Tabitha Pelos,16,MAle,249-528-4799,Kurnool,27.9.2023,Clothing,98069,mobile payment,11
+106,Harry Osgodby,39,Female,189-925-5930,Kurnool,17.1.2022,books,98877,cash,47
+107,Maxine Ponting,34,FEmale,711-366-4155,Vijayawada,14.5.2022,Books,43242,mobile payment,98
+108,Alicea Draisey,35,Female,600-594-4974,Vijayawada,6.11.2022,books,11916,cash,15
+109,Lizzie Mudd,39,,112-720-3082,Guntur,3.3.2022,,50777,CAsh,71
+110,Arly Given,29,MAle,813-314-9016,VIJayawada,27.4.2022,electronics,53159,credit card,78
+111,Theodoric Arias,16,Male,484-172-1810,Guntur,10.4.2023,Groceries,61117,cash,46
+112,Mikey Powderham,39,MAle,588-267-4446,VIJayawada,2.10.2021,Clothing,,CAsh,59
+113,Gracia Lorand,23,Male,905-574-9367,Vijayawada,15.6.2021,Home Appliances,82232,cash,23
+114,Jessa Jersh,58,Male,386-709-8051,Vijayawada,11.10.2022,electronics,,cash,27
+115,Emlyn Iacovino,56,,658-362-7717,KUrnool,5.2.2023,Groceries,50965,mobile payment,63
+116,Marcelline Barday,26,FEmale,639-206-5555,Vijayawada,23.6.2022,Books,68079,CAsh,52
+117,Clotilda Bebis,41,femal,734-710-2218,Vizag,9.12.2022,Groceries,,CAsh,57
+118,Chrysa Carrick,54,femal,997-137-5058,Vizag,10.1.2023,Grocy,14887,credit card,25
+119,Sabrina Lamdin,23,MAle,238-196-5935,Kurnool,2.2.2023,electronics,83057,credit card,63
+120,Raphaela Van Der Hoog,36,Female,586-808-3210,Kurnool,7.2.2023,Toys,89103,credit card,46
+121,Cherice McOmish,53,Female,113-529-1769,Vijayawada,14.9.2021,electronics,24285,credit card,83
+122,Chiquia Hamor,54,,840-988-3789,KUrnool,28.1.2022,Home Appliances,86301,credit card,33
+123,Ronald Danett,36,Female,330-925-8973,Chittor,7.6.2021,Grocy,37580,mobile payment,92
+124,Lindsay Iremonger,44,Female,982-852-1462,Chittor,25.5.2022,Groceries,15437,CAsh,74
+125,Eugenia Merrigan,36,MAle,619-682-3031,Vijayawada,18.10.2022,Groceries,78459,cash,24
+126,Sarge Spellacey,27,,643-191-9107,Vizag,15.9.2022,Clothing,72997,credit card,99
+127,Breanne Camplen,28,femal,339-165-5468,VIJayawada,8.1.2022,Groceries,10796,CAsh,69
+128,Tabbie Bernardeau,59,Male,977-501-4786,Chittor,12.3.2022,electronics,41035,credit card,6
+129,Tori Fann,59,MAle,218-203-8960,Kurnool,22.6.2022,Books,12223,mobile payment,67
+130,Beale Stoneham,23,Female,326-164-1272,Vijayawada,11.11.2022,Toys,,mobile payment,54
+131,Chadd Burlingham,21,Female,452-130-4747,,28.4.2022,books,25102,credit card,84
+132,Ethyl Mac Giolla Pheadair,40,FEmale,357-375-5611,Vizag,4.11.2021,Electronics,27899,mobile payment,27
+133,Griz Flippen,32,MAle,606-288-0308,Kurnool,29.3.2023,Electronics,90082,CAsh,21
+134,Brita Gingell,60,Female,211-154-4957,Kurnool,31.10.2021,Clothing,49532,CAsh,24
+135,Drona Dukes,57,Female,763-399-2886,VIJayawada,15.8.2022,Grocy,36272,mobile payment,37
+136,Beltran Leyman,57,FEmale,745-703-4558,Vijayawada,26.1.2021,Toys,58628,credit card,94
+137,Nicholas Romao,46,Male,952-365-6933,Guntur,13.4.2022,Groceries,50078,cash,64
+138,Caren Rillstone,32,Male,790-220-5113,Vizag,4.9.2023,electronics,68103,cash,1
+139,Bar Arsey,21,femal,369-110-7524,Vijayawada,1.2.2023,Electronics,62610,CAsh,39
+140,Georgetta Flahy,50,femal,970-283-5703,Chittor,3.11.2021,electronics,18803,mobile payment,61
+141,Colleen Whitmore,52,FEmale,880-411-5152,Vizag,6.7.2023,Home Appliances,97912,cash,97
+142,Eveleen Mandifield,28,femal,564-223-5120,Kurnool,23.1.2022,Grocy,84785,credit card,77
+143,Vassily Yearne,35,femal,537-937-4239,Vizag,15.8.2021,Books,,mobile payment,22
+144,Celestine Aimable,40,Male,429-865-8755,Guntur,1.9.2023,Books,60198,CAsh,40
+145,Christian Medgwick,54,,101-183-2043,Kurnool,2.9.2021,Clothing,,credit card,23
+146,Elyse Greetland,23,Female,942-597-1595,KUrnool,1.10.2023,Electronics,94101,credit card,76
+147,Lynne Middup,22,femal,491-543-5346,Chittor,22.4.2021,books,86557,cash,78
+148,Hettie Adelman,51,FEmale,484-934-7680,Vizag,6.11.2023,Electronics,64786,mobile payment,63
+149,Andrea Koch,54,MAle,234-936-4181,Guntur,31.8.2021,Books,30468,mobile payment,46
+150,Micheline Nottle,58,femal,480-138-2613,Vizag,27.8.2023,electronics,77908,credit card,41
+151,Nanice Niave,38,,794-923-8390,Chittor,5.9.2022,books,50559,mobile payment,5
+152,Arv Avrasin,49,femal,954-514-6594,Vizag,19.3.2023,Electronics,11146,CAsh,28
+153,Ranee L'Episcopi,28,MAle,862-583-8238,KUrnool,24.5.2023,Grocy,57681,CAsh,4
+154,Sileas Murford,32,,601-256-9534,Chittor,14.3.2021,Books,80893,CAsh,12
+155,Gaultiero Theaker,46,Female,845-261-0511,Chittor,27.1.2022,Electronics,76756,cash,79
+156,Berta Boydell,29,Female,100-355-7679,KUrnool,9.1.2022,Toys,93145,cash,50
+157,Arnold Deveril,27,,587-261-5736,Vizag,22.6.2022,Books,20852,CAsh,90
+158,Hortense Lafoy,41,MAle,642-413-8176,VIJayawada,26.3.2021,Clothing,31675,cash,45
+159,Faulkner Saul,42,MAle,569-972-7291,Vizag,19.7.2021,Home Appliances,51422,credit card,100
+160,Claudell Lamerton,59,Male,897-656-5928,Vizag,30.9.2023,Grocy,31368,credit card,64
+161,Sheba Etheredge,28,,190-759-5432,Vizag,20.8.2022,Toys,35363,cash,96
+162,Jacinta Adnet,33,Male,208-291-2882,Kurnool,3.8.2021,,50110,mobile payment,99
+163,Franky Lidington,58,MAle,154-593-7152,Vizag,8.6.2023,Toys,78494,cash,5
+164,Felicdad Ramey,55,Female,929-302-9703,KUrnool,6.4.2023,Toys,56949,CAsh,12
+165,Richmound Coleridge,26,MAle,277-376-1860,Vijayawada,1.5.2021,books,64784,credit card,35
+166,Maitilde Baughn,45,Male,735-516-3951,,4.7.2021,books,,credit card,92
+167,Chev Kennham,33,Female,784-104-3093,Vizag,17.10.2022,electronics,92009,CAsh,67
+168,Tiffani Korfmann,22,Female,222-571-5462,Vijayawada,5.9.2022,Groceries,42446,cash,59
+169,Nisse Haskell,23,FEmale,456-729-9753,Chittor,20.9.2021,Books,14500,mobile payment,75
+170,Giovanni MacCafferky,42,,529-966-6448,KUrnool,6.1.2021,Groceries,19645,CAsh,70
+171,Antone Lenahan,34,MAle,586-253-5296,Vizag,15.4.2023,Books,73021,cash,85
+172,Ariel Elfleet,36,femal,328-620-7715,Guntur,26.4.2022,books,56773,credit card,96
+173,Melva Battyll,24,FEmale,936-282-8429,KUrnool,9.2.2022,,73738,CAsh,44
+174,Darsie Kondratyuk,29,Male,820-230-4204,KUrnool,21.4.2022,Home Appliances,90510,credit card,88
+175,Ruthann Carreck,57,Male,877-199-9847,Chittor,3.11.2022,Home Appliances,15733,CAsh,71
+176,Irving Wakelin,43,,423-751-5440,Kurnool,24.4.2022,Clothing,79044,CAsh,55
+177,Freddy Dering,56,MAle,513-992-4217,Guntur,6.1.2022,Electronics,81544,cash,71
+178,Jeffy Templeton,40,femal,715-221-9441,Vizag,6.6.2022,Home Appliances,85961,CAsh,100
+179,Clyve de Lloyd,44,FEmale,736-253-4522,Vijayawada,26.4.2023,Books,,CAsh,11
+180,Noach MacDearmaid,26,Female,282-289-6243,Kurnool,17.10.2021,Books,77405,cash,50
+181,Vilma Sclanders,39,femal,594-317-7319,Kurnool,1.4.2023,Home Appliances,63870,cash,29
+182,Daryl Clempton,35,MAle,416-131-4131,Chittor,23.7.2022,Clothing,39497,mobile payment,37
+183,Brooke Enriquez,46,Male,305-636-0533,VIJayawada,15.8.2021,,64128,credit card,30
+184,Iorgos Froude,40,FEmale,110-493-3980,Vizag,20.5.2021,Grocy,64253,credit card,28
+185,Lulu Heiss,21,Male,436-281-5436,Vijayawada,25.8.2023,Toys,14453,CAsh,93
+186,Rozamond Bambrick,33,FEmale,888-946-4410,Kurnool,10.7.2022,Groceries,85216,CAsh,38
+187,Inger Chippendale,38,,194-827-4212,Vizag,7.10.2021,Home Appliances,51585,mobile payment,2
+188,Aldwin Feaveryear,23,FEmale,546-145-4266,Guntur,3.1.2022,Clothing,85300,CAsh,69
+189,Jyoti Cromley,16,Male,716-161-2477,Guntur,12.6.2023,,98935,CAsh,73
+190,Ofilia Lias,37,femal,688-694-3793,Guntur,30.3.2023,Home Appliances,79576,mobile payment,43
+191,Pris Cabrales,60,,814-106-9288,VIJayawada,6.2.2022,Clothing,76708,cash,81
+192,Melessa Lisimore,33,FEmale,667-135-1028,Chittor,8.6.2021,Toys,25201,credit card,59
+193,Neala Brind,53,Female,836-686-7090,Vijayawada,8.6.2022,Grocy,64172,mobile payment,28
+194,Laural Swalteridge,57,,745-279-5312,Guntur,17.9.2023,Electronics,26376,CAsh,37
+195,Derron Sherrett,22,Male,817-240-4657,Chittor,10.4.2022,Grocy,32523,credit card,89
+196,Tristan Collopy,59,Female,117-488-6184,Chittor,2.9.2022,Toys,,CAsh,68
+197,Caldwell Godier,43,MAle,941-539-0850,Vizag,15.7.2023,Books,71842,credit card,11
+198,Ario Semour,15,MAle,748-826-8744,KUrnool,15.1.2022,electronics,,CAsh,79
+199,Menard Berringer,42,Male,152-421-1760,Vizag,8.6.2022,books,67540,cash,59
+200,Svend Keir,15,Male,172-144-1446,KUrnool,29.8.2022,Grocy,65411,CAsh,35
+201,Audy Cockson,55,,249-770-3675,VIJayawada,23.3.2023,Toys,95300,credit card,9
+202,Ewell Race,45,FEmale,285-968-6169,Vijayawada,28.3.2021,electronics,69420,mobile payment,47
+203,Julius Bickerdike,36,Female,368-487-3140,VIJayawada,24.5.2023,electronics,32220,mobile payment,60
+204,Morris McKellar,39,Male,306-340-5424,KUrnool,22.2.2023,Home Appliances,41278,cash,54
+205,Marylinda Tutchener,45,Female,609-424-6882,VIJayawada,1.11.2022,Books,30240,mobile payment,48
+206,Ethelda Petri,47,femal,674-766-4111,Vizag,14.7.2021,Electronics,26012,mobile payment,31
+207,Warren Duckerin,58,Male,387-227-3752,Kurnool,25.11.2021,electronics,,cash,75
+208,Drud MacMenamie,42,Female,291-465-7487,Vizag,22.4.2023,electronics,18425,credit card,46
+209,Edy Bucklee,28,,601-846-5244,KUrnool,28.6.2022,books,15553,CAsh,72
+210,Giorgi Macklam,51,Female,387-396-7689,KUrnool,9.1.2023,Clothing,76626,credit card,29
+211,Annalise Mounsey,44,,953-127-7166,Guntur,16.5.2023,Electronics,25604,credit card,83
+212,Lonna Skewes,60,MAle,341-650-7461,Guntur,25.4.2022,Toys,29670,credit card,79
+213,Obediah St Quenin,25,femal,298-229-9146,Guntur,2.7.2021,books,,cash,96
+214,Drake Bassom,16,femal,975-916-6691,KUrnool,9.6.2023,Toys,67331,cash,51
+215,Kelila Eastmond,19,Female,621-459-4228,VIJayawada,2.7.2021,Books,65861,cash,72
+216,Christi Elham,17,,316-600-4878,Chittor,26.10.2021,Home Appliances,75376,CAsh,61
+217,Shelba Rountree,34,femal,380-826-8888,Kurnool,11.1.2023,books,95946,CAsh,79
+218,Winnie Slayny,51,,564-727-2017,Kurnool,14.11.2022,Toys,26060,credit card,17
+219,Cass Mattei,38,Female,178-934-9350,VIJayawada,5.6.2023,Clothing,,mobile payment,3
+220,Rozelle Maestro,15,Female,434-318-9557,VIJayawada,2.2.2021,Electronics,87801,cash,64
+221,Milli Steagall,34,FEmale,186-781-2161,VIJayawada,15.5.2022,Books,21077,cash,15
+222,Alexei Corish,44,femal,346-618-0040,KUrnool,6.3.2021,Toys,,CAsh,66
+223,Luce Subhan,50,femal,273-821-9545,Chittor,18.11.2021,books,17302,CAsh,9
+224,Kimberlee Reinard,19,FEmale,209-667-9276,VIJayawada,15.9.2022,Groceries,40375,CAsh,11
+225,Nicol Woodland,45,femal,608-912-2318,Vijayawada,10.3.2022,Toys,56486,CAsh,20
+226,Aubry Vernon,50,Female,724-172-9676,Guntur,5.1.2022,Electronics,93411,mobile payment,13
+227,Georgiana Jurzyk,24,MAle,636-209-6382,KUrnool,6.6.2022,Grocy,17374,CAsh,34
+228,Rennie Vennard,30,MAle,751-819-6089,Chittor,4.3.2022,Groceries,73894,mobile payment,63
+229,Tommy Metheringham,18,,494-137-0111,VIJayawada,15.9.2021,Grocy,20609,cash,81
+230,Mareah Merricks,36,FEmale,384-978-5837,Vijayawada,23.7.2022,Electronics,24896,CAsh,35
+231,Alano Caldecot,48,FEmale,281-498-0780,Vijayawada,28.4.2021,Electronics,99463,CAsh,52
+232,Cissy Burwood,26,Female,322-486-8153,Vijayawada,2.4.2021,Electronics,69337,CAsh,4
+233,Nichole L'Homme,20,,442-226-6692,Kurnool,27.11.2022,Toys,45074,credit card,35
+234,Anabal Windrum,43,Male,602-309-8851,Guntur,17.8.2021,Grocy,32639,CAsh,22
+235,Shermy Portal,43,,412-256-3906,Chittor,23.2.2023,electronics,77247,credit card,24
+236,Base Cavnor,47,,689-675-3079,Vizag,21.4.2022,Toys,97226,cash,61
+237,Carlo Formie,51,femal,797-882-7927,Vijayawada,13.1.2021,Home Appliances,96444,CAsh,33
+238,Oran Bladge,57,Female,958-437-7696,Chittor,2.1.2022,Books,84974,credit card,73
+239,Fee Hucknall,39,MAle,259-889-2387,Vizag,24.4.2021,Groceries,54977,CAsh,49
+240,Gian Silby,47,MAle,260-902-6181,Guntur,19.7.2021,Toys,73499,cash,24
+241,Aloysia Sarle,40,FEmale,289-960-5048,Kurnool,3.7.2023,books,53403,mobile payment,39
+242,Pam Bolus,42,MAle,750-497-4462,Vizag,19.8.2022,Home Appliances,55727,credit card,52
+243,Kendricks De Domenicis,30,femal,683-975-3356,Vijayawada,25.10.2022,Groceries,61129,credit card,21
+244,Marlane Brazel,32,FEmale,282-260-1442,KUrnool,21.10.2023,books,15075,cash,90
+245,Henrieta Cooper,31,Female,977-657-1048,VIJayawada,16.8.2022,books,33700,CAsh,25
+246,Gardie Nanuccioi,21,Male,436-524-1549,KUrnool,22.6.2023,Groceries,47700,CAsh,78
+247,Ginnifer Tooher,18,FEmale,590-587-0879,,13.12.2022,electronics,23163,mobile payment,17
+248,Saree Casseldine,24,,571-135-6392,Vijayawada,25.8.2021,Toys,86375,CAsh,90
+249,Isa Avo,45,femal,949-879-0091,Chittor,28.5.2022,books,68606,credit card,46
+250,Trumaine Botfield,52,MAle,315-875-1337,Vizag,21.7.2023,electronics,48004,CAsh,83
+251,Thornie Mallebone,40,femal,769-583-2588,Vijayawada,26.1.2021,Clothing,63666,CAsh,3
+252,Kerrie Bumpass,39,Female,798-706-7151,KUrnool,28.8.2021,Electronics,18193,credit card,7
+253,Sharline Pashba,55,Male,343-754-7385,Kurnool,4.6.2021,Grocy,56991,credit card,66
+254,Bobina Romain,52,Male,619-794-2040,Vizag,22.12.2022,books,89028,credit card,64
+255,Juliane Swetland,38,Male,165-364-5564,Guntur,29.11.2023,Grocy,98798,mobile payment,6
+256,Susan Filkov,55,Male,780-934-5215,Guntur,14.4.2022,Home Appliances,81334,credit card,63
+257,Witty Whitelock,58,Male,916-174-5493,Vizag,21.11.2022,Home Appliances,88010,cash,75
+258,Orlando Gribben,38,Male,163-390-5613,Chittor,2.7.2021,Groceries,90025,credit card,85
+259,Gusella Macbeth,20,FEmale,755-582-8432,KUrnool,8.1.2022,Electronics,68522,mobile payment,67
+260,Danie Lincey,31,Female,864-738-5062,Vijayawada,22.12.2023,Toys,10740,credit card,53
+261,Lavina Huncote,43,,866-536-4051,VIJayawada,1.7.2022,Grocy,60795,CAsh,27
+262,Marys Kemery,39,Male,808-514-2539,Guntur,8.9.2021,books,,credit card,51
+263,Delaney Foy,41,FEmale,854-839-5638,KUrnool,21.7.2021,Electronics,50050,mobile payment,47
+264,Emilio Tregaskis,55,Female,107-762-0633,Vijayawada,17.2.2023,Home Appliances,39388,credit card,66
+265,Ginger Aleksahkin,25,FEmale,742-464-0798,KUrnool,7.7.2022,Toys,23118,credit card,1
+266,Isaak Bonham,16,FEmale,686-228-5053,VIJayawada,21.5.2022,Books,79916,cash,42
+267,Daria Surmon,23,Female,989-955-9845,Chittor,4.8.2023,Electronics,53120,credit card,84
+268,Hill Edmonston,30,femal,561-999-1123,Guntur,26.4.2021,Grocy,61950,cash,33
+269,Bale Beeton,26,femal,823-456-1626,Chittor,13.4.2021,Clothing,90330,credit card,33
+270,Jacenta Klass,52,Male,246-862-0164,Vizag,21.4.2023,electronics,95357,credit card,30
+271,Shanna Tutton,32,,881-571-6586,KUrnool,10.2.2021,,87333,CAsh,84
+272,Deck Tickle,56,femal,386-292-0752,Kurnool,15.12.2023,Groceries,16926,mobile payment,78
+273,Nevin Busain,41,femal,399-793-6088,Vizag,24.1.2022,electronics,25858,CAsh,13
+274,Garwood Milkins,51,FEmale,191-807-3505,VIJayawada,7.5.2021,Clothing,86663,mobile payment,2
+275,Lorry Bowkley,54,Male,337-128-9152,Chittor,10.9.2021,Groceries,66871,CAsh,45
+276,Devi Pollicatt,16,femal,580-977-4319,KUrnool,23.11.2021,books,34105,credit card,16
+277,Aryn Considine,44,Male,857-306-7802,Chittor,2.8.2023,Groceries,55023,credit card,19
+278,Mathilda Booeln,38,MAle,641-199-8211,Vijayawada,6.2.2022,Books,59523,cash,5
+279,Theo Stansbie,18,Male,543-640-6440,,17.2.2021,Toys,,credit card,79
+280,Kris MacNish,59,femal,686-107-3111,Guntur,23.9.2021,Groceries,40542,credit card,3
+281,Lewes Lacasa,47,Female,745-768-7470,Vijayawada,8.4.2023,Home Appliances,60768,credit card,36
+282,Elga Charer,15,Female,202-208-8068,Guntur,14.12.2023,Electronics,21948,cash,22
+283,Margaret Page,19,FEmale,748-785-9405,Vijayawada,27.10.2022,Grocy,53650,mobile payment,67
+284,Fransisco Farloe,24,Female,463-502-4768,Vijayawada,17.3.2022,Toys,69631,credit card,7
+285,Teddie Lumbley,29,MAle,660-790-0778,Chittor,6.3.2023,Groceries,69173,mobile payment,11
+286,Rodge Sidary,44,MAle,499-291-2770,Vizag,28.12.2021,books,97545,CAsh,60
+287,Mattheus Byram,27,FEmale,692-312-5917,VIJayawada,3.10.2023,books,67363,CAsh,79
+288,Tybi Ireson,47,femal,827-283-1008,VIJayawada,27.10.2021,electronics,42225,cash,87
+289,Richmond Stoney,30,femal,179-738-1237,Kurnool,4.12.2023,Grocy,88419,CAsh,1
+290,Ewan Oene,25,Female,912-993-9648,VIJayawada,24.11.2023,Grocy,56565,cash,56
+291,Bernie Gouck,19,Female,601-945-7049,Vizag,1.5.2022,Home Appliances,23434,mobile payment,72
+292,Jackson McAless,44,FEmale,724-557-2201,KUrnool,16.7.2023,Home Appliances,29188,credit card,1
+293,Lucille Corzon,45,Male,783-119-4166,KUrnool,18.7.2023,Electronics,77300,credit card,14
+294,Thorndike Messer,26,,914-242-2660,Guntur,25.9.2022,Electronics,,mobile payment,13
+295,Helen-elizabeth Seymark,38,femal,990-876-5402,Vizag,18.4.2023,electronics,87353,credit card,9
+296,Josephina Newport,54,femal,429-412-9286,Vizag,20.3.2023,Toys,38173,cash,22
+297,Ardyce Ussher,19,FEmale,489-548-5711,Guntur,10.11.2022,Home Appliances,81288,credit card,17
+298,Milzie Spalls,53,Male,788-410-8016,,26.12.2023,Electronics,39942,CAsh,86
+299,Marthe Gosby,41,FEmale,653-571-9106,Guntur,7.5.2023,Home Appliances,47765,cash,34
+300,Lacey Chilles,15,,812-162-3556,VIJayawada,27.9.2021,Books,75334,mobile payment,82
+301,Granger Thewless,50,Male,614-184-1522,VIJayawada,5.7.2023,Books,39970,credit card,19
+302,Hadrian Dickie,51,,829-916-3201,Vizag,25.12.2021,Clothing,21294,CAsh,4
+303,Myrvyn Partkya,53,MAle,470-572-1575,KUrnool,13.4.2022,books,94974,credit card,33
+304,Eda Cromarty,28,Female,135-632-1026,VIJayawada,15.4.2023,electronics,68591,mobile payment,72
+305,Waldo Harbord,17,femal,954-694-8956,Chittor,3.10.2022,Toys,36977,CAsh,53
+306,Porter Lozano,52,FEmale,350-404-0510,VIJayawada,28.11.2023,Groceries,99307,mobile payment,66
+307,Rhett Troke,23,femal,580-327-5736,VIJayawada,3.5.2021,Books,74572,CAsh,19
+308,Vanya Greenhough,18,,766-476-2309,Chittor,15.1.2021,,77866,cash,10
+309,Rhys Swiffen,33,Female,148-444-6307,Guntur,16.6.2022,Grocy,58351,CAsh,69
+310,Vivi Swaby,16,,873-974-2935,Vijayawada,16.6.2023,Grocy,70722,CAsh,57
+311,Brena Sysland,49,FEmale,882-737-6925,Vijayawada,28.1.2022,Groceries,25229,mobile payment,46
+312,Phoebe Noar,31,FEmale,579-276-5262,KUrnool,16.2.2023,electronics,21664,mobile payment,75
+313,Ephraim Bodocs,28,Male,601-262-0626,Chittor,30.5.2023,Books,54309,credit card,58
+314,Jocko Schlag,28,,244-895-6073,VIJayawada,8.2.2022,books,47450,cash,80
+315,Scottie Blowfield,31,femal,687-394-0221,Chittor,4.11.2022,Books,78850,credit card,57
+316,Eddy McGrah,55,,523-561-5173,VIJayawada,19.7.2022,Books,32350,credit card,30
+317,Bondy Fronks,52,Male,334-722-8879,Guntur,17.3.2022,Clothing,34761,CAsh,79
+318,Margaretta Sandes,50,femal,815-983-3580,KUrnool,19.6.2022,Home Appliances,29255,cash,64
+319,Demetrius Hargreave,30,femal,911-224-8952,Kurnool,27.7.2022,Groceries,64967,mobile payment,24
+320,Nathanial Pledger,58,,734-421-7971,Vizag,15.9.2021,Groceries,96517,mobile payment,71
+321,Jaynell Wrintmore,29,Male,740-805-3880,Chittor,1.4.2021,Clothing,35834,cash,78
+322,Oralia Bunclark,48,Male,267-540-3512,VIJayawada,24.12.2023,Clothing,33840,cash,90
+323,George Wilmott,54,Male,225-168-3211,KUrnool,17.3.2021,Books,27674,cash,51
+324,Kora Reach,16,FEmale,330-696-2506,Vijayawada,22.9.2021,Books,65026,CAsh,44
+325,Meara Foxworthy,44,FEmale,750-179-9837,Vijayawada,6.2.2023,Electronics,36050,mobile payment,81
+326,Eyde Zanitti,47,,783-945-2508,Chittor,8.2.2022,Home Appliances,30910,cash,28
+327,Bert Alster,16,Female,910-312-3443,Chittor,27.11.2023,Electronics,45521,mobile payment,74
+328,Merry Coathup,57,Female,719-120-5427,KUrnool,13.10.2021,Toys,46362,cash,1
+329,Reynard Tarbath,21,FEmale,432-275-1175,Vizag,5.8.2023,Toys,69440,CAsh,78
+330,Randolf Pounsett,35,Female,513-384-0256,Kurnool,21.1.2023,Clothing,69131,CAsh,2
+331,Jenda McQuillan,51,,451-685-5959,Vizag,29.9.2021,Toys,30314,CAsh,24
+332,Paquito Sherwen,19,,555-133-4241,Vizag,30.10.2022,books,33450,cash,67
+333,Elwyn MacKaig,45,FEmale,974-866-2537,Guntur,6.11.2022,Clothing,16181,mobile payment,43
+334,Celene De Caroli,38,femal,476-994-5177,Vizag,3.8.2021,Home Appliances,,mobile payment,90
+335,Chantalle Motte,57,Male,422-994-4966,KUrnool,10.4.2022,Toys,14450,CAsh,24
+336,Dexter Apted,48,,222-827-2125,Kurnool,26.5.2023,Electronics,64815,mobile payment,56
+337,Patrizius Wreakes,33,femal,654-266-3261,KUrnool,23.10.2023,Electronics,87221,CAsh,51
+338,Bridie Gregan,16,,488-228-1064,Chittor,7.6.2021,Groceries,21703,credit card,6
+339,Ralina Macvey,32,FEmale,591-559-7553,Chittor,8.1.2021,Groceries,22408,credit card,38
+340,Matthiew McMurty,32,MAle,878-918-4682,,5.5.2022,,,CAsh,96
+341,Axel O'Bradain,58,Female,904-544-8411,Kurnool,15.8.2023,Books,90860,mobile payment,87
+342,Sibella Dulake,16,,860-561-5197,Vizag,21.3.2022,Electronics,72468,cash,27
+343,Feliks Keable,33,femal,557-360-6308,Kurnool,23.3.2023,Electronics,26084,mobile payment,51
+344,Kirby De Metz,33,MAle,126-632-0345,Kurnool,20.1.2021,electronics,36593,credit card,29
+345,Winnifred Huikerby,58,Female,401-517-1213,Chittor,15.10.2022,Home Appliances,90486,mobile payment,22
+346,Alecia Wiggett,45,Female,596-772-1644,Vizag,7.5.2023,Home Appliances,71814,cash,71
+347,Kelsy Middiff,48,Male,912-249-3332,Vijayawada,8.6.2023,Groceries,37357,cash,92
+348,Charita Deekes,21,Female,433-588-9459,Vijayawada,11.8.2021,Groceries,13498,CAsh,57
+349,Franz Glanester,25,MAle,992-186-0320,Kurnool,17.10.2021,books,,cash,56
+350,Pandora Varley,37,Male,901-550-4212,Guntur,9.1.2021,Grocy,31491,cash,72
+351,Gerek De La Hay,32,,562-317-7275,Kurnool,24.1.2021,Groceries,80624,cash,90
+352,Anabal McElory,31,femal,292-760-9458,Chittor,19.6.2022,Groceries,61049,credit card,36
+353,Ardys Maria,32,FEmale,280-868-1345,Kurnool,15.2.2022,Home Appliances,57278,mobile payment,7
+354,Binnie Tombleson,38,,213-110-9337,Kurnool,24.1.2023,Home Appliances,26711,mobile payment,67
+355,Carlye Kerins,27,Male,931-388-0296,Guntur,7.3.2021,Grocy,82485,CAsh,80
+356,Bambi Fone,26,Male,637-633-3896,Guntur,28.5.2022,Grocy,58446,credit card,77
+357,Harrie Randerson,20,Female,510-695-4214,Vizag,26.11.2021,books,63680,mobile payment,89
+358,Stefano Lamburne,49,femal,628-791-7860,VIJayawada,28.11.2022,Groceries,14655,cash,37
+359,Courtenay Crees,35,Female,372-943-1392,KUrnool,1.6.2023,Clothing,31018,mobile payment,59
+360,Candice Grave,21,FEmale,368-663-7658,Guntur,1.10.2021,Toys,27501,mobile payment,57
+361,Ajay Shepperd,31,femal,826-464-5537,KUrnool,26.7.2022,Home Appliances,99801,CAsh,14
+362,Rachelle Capeling,18,femal,209-650-7592,Guntur,15.1.2021,Grocy,53024,cash,36
+363,Freida Carrick,59,Male,532-677-0530,Guntur,10.3.2023,books,34704,cash,11
+364,Tracy Lucus,17,Female,934-751-6129,Kurnool,8.6.2022,Grocy,94812,CAsh,53
+365,Norina Caghan,25,,929-533-8261,VIJayawada,17.3.2022,Books,29963,cash,2
+366,Mahmud Skippon,60,,673-986-4587,Guntur,26.6.2021,Home Appliances,88530,CAsh,39
+367,Dame Niezen,40,,559-643-5772,Vijayawada,18.5.2021,Grocy,19517,credit card,9
+368,Alleen Girodias,32,femal,116-741-8631,Chittor,3.3.2021,books,,CAsh,62
+369,Barrie Colliver,16,FEmale,593-631-5190,Vizag,2.5.2022,Grocy,75770,cash,71
+370,Kynthia Riddell,40,MAle,558-541-1487,Vizag,16.3.2022,Clothing,44090,cash,26
+371,Irma Birtwell,48,,332-881-3109,Chittor,10.8.2022,electronics,49847,CAsh,89
+372,Edmon Roulston,42,FEmale,358-392-2091,Kurnool,6.5.2022,books,72802,mobile payment,89
+373,Kath Bunting,50,FEmale,594-949-4617,Guntur,30.3.2022,books,21918,credit card,80
+374,Dredi Burberow,48,Female,620-379-2535,VIJayawada,6.2.2023,Toys,75284,cash,37
+375,Charis Fyfield,21,femal,276-295-3431,VIJayawada,7.9.2023,Groceries,90718,mobile payment,67
+376,Packston Tamas,49,MAle,240-343-9799,Guntur,15.2.2023,Grocy,56350,CAsh,93
+377,Chaddie Roset,43,femal,540-297-8753,Kurnool,20.9.2021,Home Appliances,49035,credit card,26
+378,Winnifred Steiner,27,Female,169-712-3799,KUrnool,15.2.2022,Books,12416,mobile payment,94
+379,Cam Scrinage,59,femal,907-144-5219,VIJayawada,18.11.2022,,24051,credit card,3
+380,Oliy Potkins,42,Male,512-289-5415,Guntur,15.9.2021,electronics,58277,mobile payment,86
+381,Tiffanie Dearth,21,FEmale,921-414-4823,KUrnool,18.1.2023,Clothing,26868,CAsh,21
+382,Ansel Gasking,34,,521-187-4307,VIJayawada,8.5.2021,Toys,99665,cash,32
+383,Lira Luto,55,FEmale,252-322-8002,KUrnool,5.4.2021,books,32869,mobile payment,3
+384,Milissent Luscott,57,femal,262-675-9814,,18.7.2022,Home Appliances,75900,credit card,55
+385,Jany Muir,60,femal,498-556-6344,KUrnool,26.12.2022,Books,78819,cash,27
+386,Sylvia Cay,17,femal,636-965-8695,Kurnool,3.2.2023,Electronics,62426,mobile payment,40
+387,Dino Robers,17,FEmale,747-517-7914,KUrnool,13.9.2021,electronics,31228,CAsh,89
+388,Hilly Piddlehinton,49,femal,666-337-8156,KUrnool,21.5.2023,electronics,75358,mobile payment,10
+389,Llywellyn Bowmer,38,Female,795-719-0947,Vijayawada,21.1.2023,Electronics,50549,mobile payment,29
+390,Chandra Klimecki,59,,918-524-7423,Chittor,7.5.2022,electronics,89543,mobile payment,9
+391,Thebault Antonopoulos,18,,418-918-8818,Chittor,18.6.2023,Electronics,38609,mobile payment,97
+392,Lorri Zaczek,20,FEmale,612-734-0253,Vizag,17.4.2022,Electronics,52962,CAsh,53
+393,Adara Rothery,31,FEmale,592-187-8054,,17.3.2023,Grocy,81791,cash,41
+394,Leonhard Gilogly,55,MAle,842-624-6073,Kurnool,16.8.2021,Groceries,44809,cash,22
+395,Rance Leebeter,20,MAle,985-939-6376,Vizag,3.11.2022,Toys,62398,CAsh,81
+396,Sioux Benedit,49,femal,803-595-4560,KUrnool,14.3.2023,Clothing,40352,cash,98
+397,Noni Sollis,44,Female,280-435-5175,Kurnool,8.1.2023,Electronics,72467,CAsh,88
+398,Madonna Westell,46,femal,413-155-7520,Vizag,16.10.2021,electronics,74005,mobile payment,50
+399,Brina Gawkes,56,,881-267-9966,VIJayawada,15.12.2021,Electronics,93289,credit card,48
+400,Tom Hedgeley,40,FEmale,868-817-1769,Vijayawada,12.1.2023,Groceries,34652,cash,67
+401,Marissa Whitelaw,22,femal,232-348-2430,Vizag,28.4.2023,Toys,70790,CAsh,64
+402,Cynde Brotherheed,28,FEmale,143-609-9345,VIJayawada,15.2.2022,electronics,68489,CAsh,71
+403,Emlyn Allon,50,Male,827-854-2819,Guntur,10.5.2023,Toys,,mobile payment,26
+404,Itch Martineau,34,,159-351-9896,Vizag,14.9.2022,Clothing,47857,mobile payment,11
+405,Hatty Prowse,51,Male,436-891-0305,VIJayawada,15.4.2021,Grocy,92417,CAsh,80
+406,Inez Behr,50,Female,494-196-2247,Guntur,19.11.2023,Grocy,27491,credit card,48
+407,Lydon Jemmett,32,FEmale,735-599-3401,VIJayawada,11.2.2021,Grocy,94627,CAsh,37
+408,Maryjane Kadd,35,,928-354-3183,Vizag,7.5.2021,Electronics,54094,cash,30
+409,Isis Milsap,49,MAle,610-786-3043,Kurnool,9.6.2022,books,88711,CAsh,27
+410,Babb Turle,18,,538-590-0010,Guntur,6.2.2022,Electronics,46682,cash,88
+411,Brittani Poulney,18,,142-864-0041,Kurnool,21.12.2021,Grocy,32398,mobile payment,67
+412,Elsbeth Niblock,16,femal,270-152-6512,Guntur,29.4.2022,,53716,credit card,74
+413,Morse Oakden,38,,227-480-1691,Guntur,7.9.2023,Home Appliances,73600,mobile payment,5
+414,Britt Pymar,25,MAle,894-632-5234,Vijayawada,2.2.2022,Books,31971,mobile payment,73
+415,Wynnie Baudoux,59,,317-964-3037,Vijayawada,19.5.2022,Groceries,99106,cash,1
+416,Candida Batrop,17,,985-542-9386,Chittor,22.3.2021,Groceries,48250,mobile payment,87
+417,Mattie Lowrey,40,Female,624-485-2408,Vizag,29.11.2023,Grocy,72881,cash,89
+418,Petra Dodgson,29,Female,511-246-7650,KUrnool,2.6.2022,Groceries,18593,cash,72
+419,Ame Tomasz,46,Male,104-131-3484,Chittor,26.2.2022,Home Appliances,69532,cash,100
+420,Stanislas Rotherham,47,,205-660-5866,Guntur,16.1.2022,Books,22067,mobile payment,87
+421,Robby Skilling,52,,459-836-9254,Vijayawada,6.4.2021,Home Appliances,69374,CAsh,69
+422,Mead Ashingden,60,,584-150-0958,Chittor,18.2.2021,Home Appliances,29261,mobile payment,36
+423,Warner Le Provost,44,FEmale,277-717-8872,Vijayawada,18.11.2023,Groceries,16020,mobile payment,6
+424,Timothee Smees,21,Female,335-667-6513,VIJayawada,16.12.2022,Toys,98673,CAsh,86
+425,Tiphany Radband,60,FEmale,759-850-4815,Vizag,12.5.2023,Toys,82478,CAsh,67
+426,Curt Danilin,23,,859-373-9349,Chittor,27.3.2022,Electronics,82929,mobile payment,61
+427,Obediah Sidebotton,36,FEmale,268-814-9132,Chittor,27.12.2021,Clothing,10294,CAsh,10
+428,Corbet Tomkin,34,femal,426-220-4676,Vijayawada,23.12.2023,Home Appliances,38428,credit card,49
+429,Broderic Hotchkin,56,FEmale,720-528-3166,KUrnool,10.8.2022,Electronics,18144,cash,62
+430,Sapphire Print,43,femal,332-576-2282,KUrnool,3.11.2021,Books,30221,credit card,51
+431,Ximenes Claxton,41,,561-981-6633,Chittor,29.12.2021,Groceries,62872,CAsh,42
+432,Eamon Crankshaw,24,Female,733-852-6048,Vizag,15.2.2022,,15983,CAsh,98
+433,Siegfried MacLese,51,,431-771-5313,Vijayawada,6.12.2023,Groceries,93264,mobile payment,32
+434,Bernetta Lilliman,29,FEmale,301-417-8824,VIJayawada,10.12.2021,Groceries,14330,CAsh,54
+435,Edithe Roughan,51,Female,473-493-0015,Vizag,6.12.2021,Groceries,56210,mobile payment,81
+436,Aurel Goede,38,femal,518-192-3140,Chittor,12.8.2023,Groceries,48740,mobile payment,26
+437,Neron Ciccottini,27,Female,778-132-7754,KUrnool,18.2.2022,Groceries,38361,credit card,99
+438,Reta Kleis,44,MAle,886-368-0691,Kurnool,8.10.2023,Clothing,,mobile payment,5
+439,Sigfrid Boich,19,MAle,393-780-0201,VIJayawada,21.8.2023,,31123,cash,22
+440,Trevar Cappel,28,,723-299-9558,KUrnool,21.2.2021,Toys,64136,credit card,40
+441,Hoyt Darrow,16,MAle,742-978-0254,Guntur,19.7.2021,Grocy,93308,cash,55
+442,Lise Jandak,30,MAle,777-565-3254,VIJayawada,2.10.2021,Electronics,91159,cash,71
+443,Remus Blitzer,46,MAle,460-983-8847,Chittor,3.12.2021,Books,20426,cash,61
+444,Alexio Punt,39,MAle,994-764-7701,Vijayawada,17.7.2021,Groceries,11339,credit card,74
+445,Audy Sapp,18,FEmale,485-156-6036,KUrnool,9.2.2023,Home Appliances,86177,cash,49
+446,Malachi Farlam,46,femal,764-345-9000,Kurnool,28.2.2023,Clothing,26617,CAsh,29
+447,Sherlock Reignould,43,MAle,225-947-0700,KUrnool,22.1.2023,electronics,11338,mobile payment,72
+448,Cherey Poel,21,FEmale,670-374-7295,VIJayawada,25.4.2021,Books,43630,credit card,84
+449,Tadeas MacArd,24,Female,834-273-5727,KUrnool,7.5.2021,Toys,72104,mobile payment,6
+450,Hulda Babbidge,45,,813-315-5141,Chittor,24.9.2021,books,12765,cash,66
+451,Lynde Spurr,37,MAle,924-720-8368,VIJayawada,13.11.2023,Grocy,77234,mobile payment,68
+452,Kimbra Peachey,32,,405-125-3808,VIJayawada,5.1.2022,books,51756,credit card,12
+453,Ives Rishworth,45,,108-552-3423,Kurnool,3.1.2023,Grocy,36110,CAsh,19
+454,Esdras Arundel,34,MAle,355-363-8655,Chittor,28.9.2021,Groceries,43210,mobile payment,2
+455,Bibby Favelle,30,femal,965-988-0571,Kurnool,19.5.2022,Clothing,49891,CAsh,45
+456,Tamera Clutten,35,Female,965-260-3525,VIJayawada,27.1.2021,books,40262,cash,97
+457,Georgianna Birdwhistle,28,,797-167-6854,Kurnool,8.10.2023,Home Appliances,35487,cash,3
+458,Peadar Wyld,23,femal,440-429-7473,VIJayawada,12.7.2023,electronics,36964,cash,4
+459,Nikolia Havvock,30,,318-535-2715,Chittor,8.8.2021,,10526,mobile payment,36
+460,Shadow Vedstra,37,FEmale,325-127-8970,VIJayawada,12.3.2022,books,40326,CAsh,43
+461,Anjela Ducker,17,,479-703-1657,Kurnool,18.2.2021,Groceries,70485,CAsh,92
+462,Barrie Lightewood,51,Male,128-298-0198,VIJayawada,30.4.2021,books,58065,cash,14
+463,Crista Manklow,29,femal,809-767-8540,VIJayawada,2.12.2023,Toys,84894,mobile payment,19
+464,Fayth Gierth,39,Male,797-489-9738,KUrnool,2.1.2023,Groceries,63699,CAsh,97
+465,Nickolas Pavlik,43,MAle,603-307-2944,Vizag,21.5.2022,Toys,66903,cash,93
+466,Sallee Cutajar,24,Female,516-875-7226,Vizag,27.12.2021,Home Appliances,50969,cash,44
+467,Grissel Sheward,19,,941-569-3969,Guntur,13.5.2023,Grocy,68337,cash,27
+468,Shanon Katz,34,Female,119-184-5236,Vizag,1.7.2023,Groceries,72767,cash,87
+469,Viviyan Signori,33,Female,240-750-5454,Guntur,24.11.2023,Grocy,29544,cash,91
+470,Leia Sillitoe,33,MAle,567-397-2929,Chittor,9.6.2021,Toys,58943,mobile payment,89
+471,Dix Elsy,23,MAle,809-589-0540,Chittor,26.10.2022,Home Appliances,84759,cash,24
+472,Reynolds Cescon,49,,374-321-8342,KUrnool,19.8.2023,electronics,70380,cash,30
+473,Evvy Bertomieu,29,,915-605-6913,KUrnool,5.7.2021,books,18553,mobile payment,46
+474,Dwain Rameau,29,FEmale,972-198-8023,Vizag,4.7.2023,Books,41060,cash,47
+475,Woody Ivanikhin,31,femal,426-680-7546,Kurnool,8.10.2022,Books,45296,CAsh,68
+476,Waiter Gauche,37,MAle,293-825-9308,Vizag,23.3.2023,electronics,46965,mobile payment,76
+477,Emili McInility,24,,469-455-0788,Guntur,8.2.2022,Toys,85640,credit card,33
+478,Von Kislingbury,42,femal,866-885-4440,Vijayawada,25.10.2021,Toys,72964,credit card,25
+479,Emerson Iles,32,Female,251-442-5457,Kurnool,1.7.2023,Books,42519,credit card,28
+480,Veriee Besset,44,FEmale,316-627-0069,KUrnool,25.2.2021,Toys,24566,cash,14
+481,Nessy L'Episcopio,41,,821-398-0999,KUrnool,27.11.2023,Home Appliances,14742,mobile payment,80
+482,Jeffrey Sarra,56,,272-407-3731,Chittor,18.1.2021,Home Appliances,,cash,68
+483,Jeanie Klassmann,51,femal,814-171-5133,Chittor,10.2.2023,Home Appliances,18398,mobile payment,48
+484,Karon Veale,33,,627-100-0192,,22.12.2022,Books,45206,CAsh,15
+485,Glori Cridland,21,femal,487-853-5733,VIJayawada,19.10.2022,Home Appliances,84388,credit card,74
+486,Brena Sitwell,55,Male,567-547-0672,Vizag,25.12.2022,electronics,23126,cash,81
+487,Ulrick Bride,48,femal,990-183-7985,Vizag,19.3.2023,electronics,67140,credit card,13
+488,Angil Garfitt,60,Female,678-695-9396,Chittor,27.11.2023,,36253,CAsh,66
+489,Elicia Axon,58,femal,653-429-1970,Chittor,10.7.2023,Toys,76200,CAsh,77
+490,See Waldron,31,MAle,968-182-9152,Chittor,10.6.2021,Groceries,68530,CAsh,87
+491,Franny Narramor,19,,864-631-4657,Vijayawada,7.2.2022,,35140,mobile payment,14
+492,Devland Barron,24,MAle,350-531-9449,VIJayawada,1.6.2021,Home Appliances,84614,CAsh,23
+493,Linnie Tippell,52,MAle,625-238-0344,Guntur,4.7.2022,Grocy,52621,cash,44
+494,Candy Heeks,16,FEmale,740-429-5010,Vizag,22.8.2023,Toys,,mobile payment,20
+495,Rogerio Spinetti,26,femal,843-696-8865,VIJayawada,21.2.2023,,53219,cash,37
+496,Brendon Fyfield,60,Male,540-576-0954,Vijayawada,19.3.2021,electronics,63156,CAsh,89
+497,Leena Iacapucci,22,MAle,334-582-3426,Vijayawada,4.7.2022,Home Appliances,13074,cash,74
+498,Janina Devote,26,Male,572-154-8642,KUrnool,28.7.2021,Home Appliances,88966,credit card,1
+499,Stefanie Bilbery,46,FEmale,244-337-0611,Chittor,6.2.2021,Toys,31048,CAsh,97
+500,Brandie Mithan,41,,612-699-6606,Vijayawada,18.10.2022,,94296,CAsh,90
+501,Nadya Poncet,25,FEmale,786-991-8032,VIJayawada,3.8.2022,Groceries,69444,mobile payment,40
+502,Ernst Swanborough,45,Male,958-417-1313,Vizag,20.11.2022,books,85879,credit card,71
+503,Sybilla Clooney,53,,511-719-3203,Kurnool,22.11.2021,Grocy,29056,cash,60
+504,Andy Grebert,25,,138-345-4550,Chittor,30.12.2023,Grocy,26712,cash,7
+505,Lindi Hornung,49,Male,822-476-3838,Vijayawada,13.10.2021,Groceries,,mobile payment,7
+506,Barthel Besant,24,Male,511-667-7031,VIJayawada,2.4.2021,Books,83457,credit card,56
+507,Esma Erlam,33,,389-438-3544,Vizag,14.3.2021,Home Appliances,64362,CAsh,16
+508,Duffy Palke,58,FEmale,941-550-6418,VIJayawada,10.1.2023,Grocy,77371,CAsh,98
+509,Nesta Baudts,29,,611-480-0478,Chittor,12.1.2022,electronics,81846,mobile payment,36
+510,Carolyn Dayborne,50,MAle,283-334-5559,Vijayawada,22.11.2023,Clothing,59604,cash,8
+511,Geoffry Feldmus,18,MAle,334-477-8259,VIJayawada,5.11.2021,Home Appliances,23777,cash,52
+512,Vivi Gieraths,30,Female,243-101-7410,VIJayawada,22.1.2022,books,63184,credit card,95
+513,Nonah Dodd,34,femal,759-244-8163,Vijayawada,24.5.2023,Groceries,69916,CAsh,65
+514,Shayla Millington,36,,109-317-9657,Vijayawada,6.5.2022,books,82549,CAsh,52
+515,Kristo Sweetland,17,FEmale,645-835-1332,VIJayawada,23.3.2021,electronics,63466,credit card,71
+516,Persis Messingham,54,femal,634-563-5715,VIJayawada,26.1.2023,Books,82219,cash,39
+517,Brenn Jonczyk,55,femal,413-296-2272,Vijayawada,9.1.2022,Grocy,22229,CAsh,42
+518,Dannie Oliffe,48,MAle,921-905-2092,Guntur,25.8.2023,Toys,,mobile payment,41
+519,Nicolle Olufsen,41,Male,279-576-8184,Vijayawada,14.6.2021,Toys,38298,mobile payment,71
+520,Elyse Dellit,43,,570-276-8062,Chittor,30.11.2021,Grocy,60903,mobile payment,99
+521,Ingelbert Seman,49,,109-130-8445,Vijayawada,15.1.2022,Books,74157,mobile payment,62
+522,Thatch Dovydenas,44,Male,532-546-9636,Kurnool,25.10.2021,books,96172,credit card,52
+523,Serge Maiklem,51,Female,765-798-8418,VIJayawada,12.7.2023,Electronics,72447,credit card,12
+524,Caryl Pegden,48,,338-923-4552,Vijayawada,7.6.2022,Books,25763,cash,3
+525,Babbie Boas,16,femal,383-928-2221,Guntur,15.8.2022,Toys,80026,mobile payment,72
+526,Anetta Kelley,33,,312-573-4174,Kurnool,1.7.2023,electronics,63292,credit card,16
+527,Merline Klaffs,29,MAle,534-709-3215,Kurnool,30.5.2022,Home Appliances,48618,cash,100
+528,Jaimie Arrol,31,MAle,446-210-8866,Chittor,4.8.2023,books,60803,credit card,94
+529,Nadean Yter,38,MAle,541-772-2283,Guntur,13.5.2022,Groceries,14174,cash,76
+530,Moira Stuehmeier,30,FEmale,256-561-5604,,19.8.2022,Books,36579,CAsh,36
+531,Emile Causton,18,MAle,476-376-4307,Guntur,15.4.2022,Books,68777,mobile payment,38
+532,Christian Jorat,17,Male,136-574-3692,Chittor,6.3.2021,Grocy,55440,credit card,93
+533,Gaylene Mila,39,Male,729-706-1966,KUrnool,3.11.2022,Groceries,44563,mobile payment,22
+534,Merola Attryde,58,,577-146-5151,Vijayawada,3.10.2021,Home Appliances,89408,cash,85
+535,Kiley Caulcott,51,Female,806-723-2647,Chittor,9.8.2023,Home Appliances,67598,CAsh,99
+536,Gusty Renols,20,FEmale,304-556-1158,KUrnool,29.4.2023,electronics,64466,credit card,20
+537,Arleta Ellwand,53,FEmale,768-356-2348,VIJayawada,14.11.2021,Home Appliances,,credit card,26
+538,Ramona Sibson,18,,565-904-7315,KUrnool,1.5.2021,books,13023,CAsh,65
+539,Brynn O'Hagerty,24,,695-919-9259,KUrnool,24.2.2021,electronics,81666,credit card,94
+540,Buffy Pratchett,44,FEmale,856-906-6019,Chittor,12.12.2023,Home Appliances,38904,CAsh,86
+541,Howie Thomel,42,Male,199-900-2374,Kurnool,5.3.2023,Clothing,35929,credit card,34
+542,Ferne Gabey,31,MAle,983-170-5125,Vizag,1.4.2022,Electronics,83774,credit card,66
+543,Jilli Mangenet,43,FEmale,330-910-8682,Vijayawada,1.6.2023,books,95958,cash,5
+544,Terrence Tithecott,40,MAle,884-842-1744,Vijayawada,8.2.2021,Toys,54122,mobile payment,18
+545,Loydie Mathieson,55,Male,261-975-7258,Vizag,8.7.2022,books,64137,mobile payment,1
+546,Ronda Folli,50,MAle,214-704-5837,VIJayawada,13.2.2022,Groceries,,mobile payment,94
+547,Cal Tunno,41,MAle,505-275-7196,VIJayawada,26.6.2021,Grocy,79620,cash,79
+548,Sharlene Miere,15,femal,564-423-4165,Vizag,11.6.2023,Home Appliances,37306,credit card,12
+549,Aubert Renfree,46,Male,566-115-4309,Vizag,28.3.2021,Books,53347,CAsh,34
+550,Leshia Gunner,52,femal,937-893-9729,,20.4.2022,Home Appliances,,mobile payment,49
+551,Johnathan Ucchino,21,MAle,752-164-9222,Kurnool,16.3.2021,books,33394,CAsh,93
+552,Cristian Bartels,21,FEmale,276-320-2961,KUrnool,27.5.2022,Grocy,58845,CAsh,22
+553,Elvina De Freitas,16,,231-535-6413,Vijayawada,7.6.2023,Clothing,48544,cash,18
+554,Welsh Paddeley,35,,348-650-3339,KUrnool,6.2.2022,Home Appliances,55909,cash,22
+555,Armstrong Chamberlayne,60,Male,735-275-9401,Guntur,12.6.2021,Toys,33897,mobile payment,84
+556,Gwenora Wingrove,47,Female,457-235-5315,VIJayawada,13.7.2023,Home Appliances,,credit card,20
+557,Conan Kolyagin,46,MAle,113-935-4342,Vijayawada,4.9.2021,electronics,80750,cash,37
+558,Quintilla Cattanach,58,femal,371-988-4970,Kurnool,6.10.2022,,33390,CAsh,49
+559,Leonelle Newall,33,Male,843-998-3184,Vizag,25.6.2023,books,98133,mobile payment,13
+560,Maurizio Martindale,28,MAle,223-672-8845,Vijayawada,17.12.2023,electronics,60894,CAsh,79
+561,Elinor Lodovichi,59,,750-261-7522,Chittor,14.6.2022,Grocy,,mobile payment,41
+562,Garrott Cooksley,43,Male,524-680-7830,VIJayawada,26.3.2021,Electronics,38073,credit card,64
+563,Elayne Boddington,55,MAle,822-926-5421,VIJayawada,8.6.2022,Home Appliances,65352,CAsh,82
+564,Torey Dunbar,49,femal,360-283-7888,KUrnool,28.10.2022,Home Appliances,77905,CAsh,45
+565,Jerrie Mathwen,54,MAle,514-964-3447,Vizag,23.12.2022,Grocy,77961,cash,10
+566,Sol Kisbee,51,femal,256-236-4464,VIJayawada,18.12.2021,Clothing,48293,CAsh,99
+567,Susana Scala,56,femal,766-369-2862,Vijayawada,4.6.2023,Clothing,45518,mobile payment,66
+568,Ernst Smalcombe,45,femal,816-126-8954,Vizag,18.6.2022,Toys,98537,mobile payment,92
+569,Jaime Jendrich,31,FEmale,207-213-0025,Vijayawada,28.1.2021,Home Appliances,89674,mobile payment,65
+570,Millicent Pauel,30,femal,640-372-0511,,25.4.2021,Electronics,99695,credit card,42
+571,Brady Simkins,17,Male,663-630-6744,VIJayawada,30.6.2022,Clothing,19896,cash,34
+572,Amata Juggins,55,,229-580-0403,Kurnool,28.8.2022,Electronics,46051,mobile payment,61
+573,Marget Dearness,57,femal,175-943-6216,Guntur,2.8.2023,Toys,69853,credit card,84
+574,Xever Stiven,15,Female,778-766-9154,Kurnool,17.6.2022,Toys,94178,cash,61
+575,Dallas Inkster,48,femal,502-160-1686,Vijayawada,24.11.2022,Groceries,36740,CAsh,65
+576,Sheffie Titman,15,Female,521-360-3121,,29.1.2023,Clothing,55970,credit card,100
+577,Katti Palphramand,31,,871-834-0069,KUrnool,2.2.2021,,90208,CAsh,65
+578,Bernadette Capozzi,60,Male,184-355-7713,Chittor,18.8.2021,,43095,CAsh,11
+579,Katharyn Gartery,41,MAle,933-637-0254,Guntur,24.10.2023,books,12136,mobile payment,82
+580,Wells Voase,27,,887-319-3271,Kurnool,13.5.2022,,30433,cash,26
+581,Glendon Cranton,57,,299-370-1636,Chittor,28.1.2023,Clothing,23910,mobile payment,95
+582,Skell Ladson,36,Male,402-833-9899,VIJayawada,5.12.2021,electronics,29007,CAsh,21
+583,Mellisent Cleef,48,Female,661-398-6305,Vijayawada,10.4.2023,books,80060,mobile payment,37
+584,Dorisa Garriock,27,femal,537-185-2749,Vizag,17.10.2021,Clothing,19870,credit card,43
+585,Alfons Swedeland,22,Male,377-886-3019,Vizag,28.5.2023,Electronics,44223,CAsh,70
+586,Elie Bogace,28,Male,233-785-4269,Kurnool,28.1.2022,Clothing,56090,cash,100
+587,Lara Beaty,46,,952-936-5913,Kurnool,8.5.2021,Electronics,65450,mobile payment,37
+588,Gisella Wadeling,41,Female,565-326-2749,Kurnool,17.11.2023,Books,,credit card,97
+589,Barnabas Dunkirk,20,Male,284-952-4235,Guntur,14.11.2022,Groceries,29628,mobile payment,31
+590,Waldon Casine,28,,390-255-0576,Vijayawada,20.7.2021,Electronics,33569,cash,71
+591,Purcell Cronk,43,femal,941-221-4747,Guntur,5.7.2022,electronics,41288,CAsh,52
+592,Pandora Treleaven,43,,871-528-5430,Vizag,10.2.2021,Grocy,33024,CAsh,83
+593,Emelia Rebanks,16,Female,968-525-0074,Vizag,29.6.2022,Clothing,60948,mobile payment,37
+594,Valentia Willshire,52,Female,469-426-3393,Vijayawada,26.11.2021,Groceries,69219,cash,38
+595,Alair Fergie,46,femal,363-493-7009,Guntur,10.5.2023,Home Appliances,40081,cash,68
+596,Ashlin Lomond,15,femal,623-845-6118,KUrnool,5.6.2023,Books,,CAsh,39
+597,Kirbie Pickett,43,FEmale,579-990-5041,Chittor,3.10.2022,Books,85402,CAsh,23
+598,Benito Antoni,47,femal,356-495-4971,VIJayawada,5.4.2021,Grocy,98759,cash,16
+599,Bartlet Ferreira,34,,973-266-6907,Guntur,8.10.2023,electronics,16252,CAsh,41
+600,Danya Capron,55,Male,601-232-2234,KUrnool,6.9.2021,Home Appliances,14526,cash,73
+601,Ambrosio Havers,21,FEmale,621-960-0649,VIJayawada,13.4.2021,electronics,11591,mobile payment,46
+602,Hugibert Millgate,18,Male,962-353-5254,,14.8.2023,Clothing,35453,CAsh,52
+603,Noach Bouldstridge,20,Male,851-323-4546,VIJayawada,20.3.2022,books,45991,CAsh,2
+604,Celestyna Thomassin,47,FEmale,149-977-9802,Vizag,12.3.2022,Groceries,61262,credit card,81
+605,Brody Wyer,16,,275-438-1439,Vijayawada,20.7.2023,Toys,46616,mobile payment,75
+606,Gunar Huntriss,20,femal,725-556-7166,Vizag,24.4.2023,Toys,23100,cash,94
+607,Dulcea Hargie,40,Female,801-855-2852,KUrnool,1.8.2023,Grocy,49039,mobile payment,62
+608,Drusi Marousek,37,FEmale,755-215-6740,KUrnool,1.1.2023,electronics,96636,CAsh,61
+609,Anett Finlow,18,Male,132-608-3541,KUrnool,28.12.2022,Groceries,74277,mobile payment,89
+610,Jennine Grolmann,59,femal,867-563-3020,Guntur,30.8.2021,books,20585,CAsh,28
+611,Callean Dymond,53,FEmale,408-948-1571,Vizag,8.2.2023,Home Appliances,,cash,95
+612,Katinka Spraggon,45,MAle,429-867-2040,KUrnool,14.8.2021,books,28870,cash,37
+613,Cedric Churchley,49,Female,664-761-4971,KUrnool,9.2.2021,Toys,20475,CAsh,100
+614,Diane Ofield,49,Male,368-541-3071,VIJayawada,4.3.2022,Electronics,38004,credit card,53
+615,Garth Jenicke,22,Male,910-132-1680,KUrnool,30.1.2022,Clothing,33072,CAsh,73
+616,Martguerita Stops,37,Male,480-570-6138,Kurnool,1.8.2022,Toys,86227,cash,73
+617,Kelley Lowden,42,,436-371-9386,,5.10.2023,books,17688,cash,59
+618,Ben Gatiss,33,Female,386-392-4242,KUrnool,26.9.2022,books,69928,mobile payment,12
+619,Gerianna Jarrelt,27,MAle,105-168-2066,Kurnool,20.1.2023,electronics,25793,mobile payment,86
+620,Mersey Painswick,23,Female,122-436-4210,KUrnool,8.9.2022,Home Appliances,56980,mobile payment,100
+621,Kimbell Uttridge,34,Male,417-539-9291,Chittor,27.12.2021,Grocy,72908,mobile payment,93
+622,Fairfax Standley,58,Male,736-110-6037,Vijayawada,16.12.2021,Home Appliances,15309,CAsh,90
+623,Arabelle Mulroy,16,Female,833-895-0629,VIJayawada,4.6.2022,books,36387,cash,99
+624,Sherry Treslove,20,Male,516-116-0301,KUrnool,19.1.2022,Books,94086,credit card,94
+625,Cornelia Ruddoch,49,Male,614-246-6606,Vizag,22.3.2023,books,14929,mobile payment,42
+626,Wain Brasier,55,FEmale,416-417-9525,Vijayawada,5.9.2022,Toys,16910,cash,47
+627,Fulvia Larret,60,Male,738-285-0796,VIJayawada,7.8.2023,Groceries,26096,CAsh,12
+628,Maurene Kennally,45,,903-389-0702,Guntur,7.1.2022,books,42979,mobile payment,43
+629,Archy Windham,60,Female,899-236-0198,Vijayawada,7.3.2023,Books,31296,mobile payment,2
+630,Mersey Dogerty,20,,601-571-9135,VIJayawada,22.3.2021,Clothing,61528,cash,67
+631,Ardelis Hans,56,MAle,160-172-0723,Kurnool,9.9.2022,Groceries,46493,credit card,36
+632,Quinn Dudmesh,16,Female,739-320-7926,Vijayawada,2.4.2023,Groceries,97799,credit card,34
+633,Derrek Dimanche,23,FEmale,625-494-5465,Guntur,15.6.2023,Electronics,37079,CAsh,62
+634,Federica Doorey,23,,302-707-0476,Kurnool,17.10.2021,Clothing,50856,credit card,7
+635,Bordy Piggot,40,femal,968-195-9472,,27.12.2021,books,99825,cash,27
+636,Wolfie Rumgay,26,femal,259-265-7834,Vizag,17.3.2022,Toys,21781,mobile payment,94
+637,Ange Houlaghan,50,Male,788-663-0744,Vizag,7.7.2021,books,81896,CAsh,33
+638,Juline Ewart,19,Male,165-132-9178,Chittor,4.6.2023,Clothing,51242,CAsh,50
+639,Simmonds Adao,45,Female,716-463-0859,Kurnool,19.6.2022,Electronics,75602,mobile payment,82
+640,Alma Fenix,32,Female,666-153-0880,Vizag,8.1.2023,Groceries,61791,credit card,14
+641,Fulvia Kelway,25,,505-876-1331,VIJayawada,6.4.2021,Books,94187,mobile payment,30
+642,Jed Daelman,59,femal,391-370-5069,Vijayawada,16.7.2021,Books,57359,mobile payment,65
+643,Lexie Tremain,23,MAle,685-334-0406,Vijayawada,21.9.2022,Groceries,24942,cash,25
+644,Tait Lindstrom,22,,786-238-6080,Guntur,14.7.2023,Groceries,10008,CAsh,25
+645,Pren Eliff,51,,631-750-7238,Chittor,22.10.2023,Toys,21282,mobile payment,34
+646,Fabien Glazzard,24,FEmale,934-396-7066,Chittor,18.9.2023,Toys,,CAsh,17
+647,Tallie Leere,25,Female,970-848-5071,VIJayawada,17.9.2021,Groceries,55335,mobile payment,69
+648,Dagmar Groneway,49,FEmale,909-543-5080,Guntur,3.9.2023,books,11291,mobile payment,45
+649,Mandel Murra,47,,390-931-2709,KUrnool,26.5.2021,Groceries,,cash,43
+650,Fidelio Vardey,19,MAle,537-725-0970,VIJayawada,6.8.2021,Clothing,14618,cash,1
+651,Lydie Pepperrall,39,,242-320-7459,Vizag,3.12.2023,Books,31299,credit card,40
+652,Fannie Larder,35,MAle,295-979-2408,Kurnool,11.12.2021,Grocy,10529,CAsh,93
+653,Drake Doxsey,37,FEmale,865-216-6164,Vizag,6.5.2021,books,53403,mobile payment,26
+654,Adda MacArd,20,femal,661-586-7526,Chittor,11.12.2022,,34369,mobile payment,76
+655,Saleem Jessopp,23,femal,970-622-1369,Vijayawada,19.8.2021,Clothing,15471,credit card,51
+656,Marve Bartrum,54,FEmale,533-783-1433,,12.12.2022,Home Appliances,,credit card,70
+657,Lana Gartan,55,Female,271-900-0349,Vizag,7.10.2022,books,25982,mobile payment,16
+658,Rockie Cardenoso,48,femal,830-787-0527,Chittor,4.9.2021,,46150,mobile payment,45
+659,Marybelle Mutton,23,femal,315-537-0447,Guntur,9.12.2021,Grocy,70913,mobile payment,54
+660,Nanni Awcoate,15,Male,897-877-7927,Guntur,3.12.2022,Toys,87278,mobile payment,90
+661,Margaux Kingaby,20,,239-928-7263,VIJayawada,30.5.2021,Grocy,68226,credit card,93
+662,Boy Bastard,57,FEmale,532-415-3989,VIJayawada,28.4.2021,books,63194,mobile payment,82
+663,Cameron Detheridge,41,,387-359-2358,Guntur,15.3.2023,Groceries,59390,cash,39
+664,Ardene Matzel,25,Female,512-261-5064,Guntur,20.3.2022,Grocy,56601,credit card,15
+665,Amalee Ible,21,femal,670-848-1152,VIJayawada,11.11.2021,Home Appliances,10196,cash,84
+666,Sabrina Arghent,49,FEmale,193-636-2890,Vijayawada,8.12.2021,books,48427,credit card,88
+667,Barde Waldie,44,,664-518-2753,KUrnool,2.12.2022,electronics,44752,credit card,59
+668,Onida Climson,16,Female,787-161-0223,VIJayawada,17.7.2021,electronics,11622,CAsh,36
+669,Hinda Calverley,16,femal,989-966-4332,Guntur,8.7.2021,Home Appliances,61430,credit card,63
+670,Ashby Itzakovitz,54,Male,750-199-6640,Vijayawada,6.8.2021,books,12699,mobile payment,8
+671,Hewie Kidgell,30,MAle,366-268-9969,Guntur,16.12.2022,books,,CAsh,67
+672,Marji Jahner,27,FEmale,986-715-9984,Vizag,7.5.2022,Clothing,59174,cash,66
+673,Blinnie Aberkirdo,28,,165-796-6926,VIJayawada,9.12.2022,,46244,mobile payment,56
+674,Gwendolen Kovalski,35,Female,800-600-9010,Vijayawada,24.8.2023,Groceries,75958,mobile payment,71
+675,Wesley Lampaert,25,femal,173-227-1171,VIJayawada,8.3.2023,Electronics,35798,cash,48
+676,Daune Hallums,22,Male,513-273-3333,Vizag,25.12.2021,electronics,97026,cash,22
+677,Alina Itzchaki,36,femal,333-656-9270,KUrnool,11.6.2022,electronics,93695,cash,56
+678,Jobyna Herley,21,FEmale,565-162-2962,Chittor,12.4.2022,,64877,credit card,39
+679,Reine Crame,46,Male,163-415-3229,Kurnool,25.12.2021,Clothing,51072,credit card,21
+680,Cad Normandale,59,Male,577-264-6104,VIJayawada,24.7.2022,Books,70485,CAsh,60
+681,Wiatt Bengall,49,femal,290-795-0104,Chittor,26.8.2023,Groceries,,mobile payment,25
+682,Leone Dilleway,49,Female,718-380-3951,Guntur,2.5.2022,Home Appliances,93023,CAsh,100
+683,Ediva Feltoe,19,Female,121-563-1833,Chittor,3.8.2023,Groceries,72110,mobile payment,4
+684,Omero Mulcock,22,,438-565-7679,Vijayawada,2.11.2021,Groceries,60863,mobile payment,38
+685,Philippine Purver,45,,317-901-8089,Guntur,21.12.2022,Home Appliances,53716,CAsh,18
+686,Patty Wickwar,27,,984-796-5309,Guntur,17.7.2023,Books,42172,credit card,55
+687,Maddie Larne,29,femal,261-985-4515,Chittor,20.6.2023,Groceries,94306,credit card,53
+688,Carl Pride,24,,329-814-5482,KUrnool,12.7.2022,Electronics,51190,mobile payment,71
+689,Lynett Randales,43,Female,314-380-1988,Guntur,12.12.2023,Electronics,92851,CAsh,100
+690,Flor Caddick,58,,230-292-2332,KUrnool,20.6.2021,Home Appliances,24516,cash,83
+691,Irv Botha,40,MAle,152-804-8577,Vijayawada,28.8.2021,Home Appliances,27940,credit card,60
+692,Remus Leitche,59,FEmale,556-242-5893,Vijayawada,22.2.2022,Groceries,39651,mobile payment,22
+693,Pearl Aspden,22,MAle,693-830-2508,Kurnool,7.12.2021,Toys,19379,CAsh,4
+694,Martguerita Helstrom,50,FEmale,593-316-8731,Chittor,18.5.2021,Home Appliances,17676,mobile payment,19
+695,Vikky Steagall,22,MAle,161-166-0059,Vijayawada,23.6.2022,Clothing,29969,mobile payment,70
+696,Delmer Liepina,48,Male,158-101-3847,Vijayawada,25.1.2022,,54738,cash,69
+697,Joelly Seden,46,MAle,872-852-7348,KUrnool,29.4.2023,Electronics,77733,credit card,84
+698,Marion Stollmeier,23,FEmale,120-384-6388,KUrnool,27.9.2023,Home Appliances,15912,mobile payment,9
+699,Lindy De Cruze,48,Female,190-186-9243,KUrnool,27.8.2021,Toys,28503,credit card,56
+700,Jean Valler,33,,321-824-4042,Guntur,3.9.2021,Grocy,97036,cash,35
+701,Guillema Malloy,28,Male,569-980-5116,Guntur,30.3.2021,Home Appliances,42312,cash,24
+702,Chester Kindleysides,37,FEmale,449-666-6866,Guntur,15.2.2023,electronics,53386,CAsh,81
+703,Lazare Hurst,37,FEmale,236-723-1116,Kurnool,26.12.2023,Grocy,38073,mobile payment,65
+704,Lilith Dedden,41,femal,782-782-1751,Kurnool,5.6.2023,Groceries,67681,cash,37
+705,Jefferson Gotecliffe,41,Female,726-135-7655,KUrnool,20.2.2021,Electronics,62621,cash,81
+706,Sydney Hauck,29,femal,381-470-0417,KUrnool,28.8.2021,Grocy,,credit card,19
+707,Gwenneth Effaunt,51,FEmale,570-754-9882,Vijayawada,22.8.2023,,93070,mobile payment,33
+708,Deny Klausewitz,18,femal,902-257-5334,KUrnool,24.10.2021,Books,15072,mobile payment,10
+709,Abbye McGovern,15,MAle,391-495-4489,Chittor,12.6.2021,Grocy,,mobile payment,49
+710,Stevy Bartlam,33,FEmale,729-591-7429,Chittor,30.8.2023,electronics,14134,credit card,10
+711,Hans Canet,58,Male,104-248-9041,Vijayawada,28.2.2022,Books,47548,credit card,91
+712,Obediah Trippick,25,,598-754-1480,Vijayawada,9.3.2022,electronics,63677,credit card,5
+713,Micheal Boulden,58,Male,505-174-6984,KUrnool,3.1.2021,Books,45095,mobile payment,63
+714,Idette Carberry,29,FEmale,626-485-2107,Guntur,6.8.2021,Home Appliances,26417,cash,33
+715,Worthington Midgely,22,Female,221-893-7778,Chittor,2.7.2022,Groceries,65970,CAsh,98
+716,Riccardo Lyokhin,18,MAle,460-813-5283,VIJayawada,4.3.2021,Clothing,10432,mobile payment,30
+717,Bunny Bulfoot,25,FEmale,531-648-8104,Kurnool,18.5.2022,Toys,62852,credit card,92
+718,Gray Vaughan-Hughes,38,femal,595-235-4303,Vijayawada,16.6.2022,Electronics,13239,credit card,18
+719,Bettine Choffin,43,,442-940-6556,Vizag,23.4.2021,Toys,81399,mobile payment,99
+720,Zola Dunklee,52,Male,878-809-1143,Vizag,11.3.2023,electronics,41395,cash,82
+721,Chickie Tregenza,51,femal,958-784-1873,VIJayawada,9.6.2021,Home Appliances,73789,mobile payment,47
+722,Francyne Melmar,47,femal,160-115-7297,VIJayawada,10.6.2021,Groceries,84816,credit card,59
+723,Brana De Haven,27,Male,306-189-1675,VIJayawada,3.2.2022,electronics,83219,mobile payment,11
+724,Clemmie Spilstead,33,Female,650-602-7064,Guntur,27.2.2023,Toys,78325,cash,40
+725,Gisela Barltrop,45,Female,163-858-1281,Kurnool,1.1.2023,books,46953,cash,16
+726,Dudley Crunkhorn,52,femal,522-444-9385,Chittor,1.7.2023,Grocy,34877,cash,47
+727,Felice Halworth,43,MAle,714-267-1541,VIJayawada,26.7.2023,books,32541,mobile payment,43
+728,Agnesse Madill,29,Female,812-851-1429,KUrnool,8.6.2022,books,79099,cash,62
+729,Quint Aleksandrev,26,MAle,271-768-4772,Vizag,28.3.2023,Grocy,71512,CAsh,40
+730,Dulciana Connachan,28,FEmale,772-264-8932,VIJayawada,7.3.2022,,49134,CAsh,45
+731,Tammie Moulin,55,Male,141-711-5802,Chittor,15.8.2022,Books,51127,mobile payment,40
+732,Bobby Crittal,24,Male,623-519-1978,Vizag,13.12.2022,Books,99796,cash,64
+733,Adriena Menzies,26,femal,904-638-2429,Chittor,8.6.2022,Grocy,47612,cash,78
+734,Erinna Wiltsher,23,FEmale,781-468-7851,Kurnool,30.5.2022,electronics,32273,cash,3
+735,Jonah Ferrara,33,,483-548-0232,VIJayawada,4.7.2021,Books,16273,credit card,9
+736,Far Lillie,47,FEmale,934-556-3781,Vizag,4.7.2022,Home Appliances,71893,credit card,89
+737,Marley Alvares,56,FEmale,569-667-0332,,14.9.2021,Home Appliances,17796,CAsh,48
+738,Conni Fricker,51,FEmale,762-366-0977,Kurnool,13.4.2021,books,95795,CAsh,79
+739,Dorene Chaplin,50,,222-892-4972,VIJayawada,12.5.2022,Electronics,,CAsh,76
+740,Giralda Purkins,19,,211-589-4329,KUrnool,25.1.2023,Books,,cash,6
+741,Winni Seawell,49,Female,192-630-0572,Kurnool,2.12.2022,Clothing,89151,mobile payment,94
+742,Tine Soigne,49,,294-425-8672,Guntur,9.11.2023,Clothing,14617,CAsh,17
+743,Barde Costar,37,MAle,388-606-1344,Kurnool,14.5.2021,Grocy,32392,cash,8
+744,Rhea Tibald,51,femal,705-338-6792,Vizag,19.1.2023,Toys,,CAsh,51
+745,Sollie Butcher,26,femal,741-255-1848,Guntur,21.9.2022,electronics,64807,mobile payment,35
+746,Gaelan Cristofolini,50,MAle,784-668-0620,Vijayawada,6.10.2023,Electronics,35157,mobile payment,22
+747,Sherill Hughson,33,MAle,916-740-2788,KUrnool,12.6.2021,Home Appliances,53966,credit card,80
+748,Elsey Holworth,48,femal,167-290-8493,Chittor,20.4.2022,Grocy,95976,mobile payment,27
+749,Yvon Lobb,30,Female,661-840-2685,Chittor,8.10.2021,Grocy,49978,CAsh,81
+750,Cart Gunthorp,51,MAle,684-628-6005,VIJayawada,24.12.2021,electronics,,cash,12
+751,Thorsten Mundie,46,Female,830-977-2215,VIJayawada,18.11.2023,books,57864,credit card,41
+752,Calhoun Yushin,44,femal,600-805-4089,Vijayawada,14.6.2021,Electronics,16499,mobile payment,69
+753,Mersey Letessier,18,MAle,425-218-9580,VIJayawada,20.4.2021,,56044,credit card,56
+754,Kittie Sushams,50,Female,324-847-9035,,30.12.2021,Clothing,57348,credit card,90
+755,Allan Lavrinov,42,femal,261-624-3096,VIJayawada,20.12.2022,Home Appliances,98221,CAsh,35
+756,Ransell Placide,46,,325-814-9470,Vijayawada,10.9.2022,electronics,61421,mobile payment,7
+757,Gayelord Luard,29,FEmale,677-657-1143,Chittor,6.3.2023,Groceries,21375,mobile payment,60
+758,Luisa Fradson,40,FEmale,197-287-1765,KUrnool,4.8.2023,books,60525,CAsh,95
+759,Sheffy Tangye,32,FEmale,841-452-8911,Vizag,29.5.2022,Groceries,22327,mobile payment,46
+760,Gallagher Roo,35,,698-299-3496,Vijayawada,9.10.2023,Toys,95595,credit card,42
+761,Wilmer Ruspine,39,femal,937-143-0524,Kurnool,6.5.2022,electronics,87748,mobile payment,32
+762,Jamesy Boxill,59,FEmale,823-623-4415,KUrnool,5.4.2023,Clothing,17269,cash,9
+763,Zilvia Dixcee,31,MAle,457-363-3163,Chittor,8.6.2023,Toys,60228,CAsh,74
+764,Guillermo Cockcroft,29,Male,383-984-9494,Chittor,24.11.2023,Books,,CAsh,65
+765,Matty Babin,24,,131-563-6997,Chittor,15.9.2021,Toys,80602,cash,71
+766,Cassandre Wegenen,55,Female,766-538-7377,Chittor,23.1.2023,Groceries,13746,CAsh,82
+767,Lindy Ricciardiello,29,FEmale,190-889-8942,Vijayawada,4.7.2023,Groceries,19796,cash,44
+768,Rafaello Cosgrave,59,,282-230-6755,Vizag,11.7.2021,Toys,93323,mobile payment,82
+769,Marysa Cradock,18,Male,802-346-7052,Kurnool,12.1.2023,Home Appliances,,CAsh,6
+770,Chrystel Galey,58,femal,326-151-2210,Vijayawada,4.9.2022,Books,75994,credit card,86
+771,Turner O'Dunneen,60,Female,855-781-4530,Kurnool,26.12.2021,electronics,74520,mobile payment,57
+772,Marthe Chaudrelle,26,femal,894-609-1115,Vizag,26.12.2022,Electronics,85736,cash,67
+773,Emerson O'Corr,30,MAle,106-437-2491,KUrnool,13.2.2022,Groceries,57920,credit card,9
+774,Misha Boddy,60,Female,627-470-3365,Chittor,21.11.2023,Home Appliances,15665,credit card,57
+775,Glori Matts,37,Male,982-558-4410,VIJayawada,3.3.2023,Electronics,30011,mobile payment,51
+776,Marlin Narup,43,femal,603-665-5173,Vizag,24.7.2022,Home Appliances,32546,mobile payment,91
+777,Cacilie Snibson,15,,125-880-9109,Guntur,15.11.2023,Toys,30981,CAsh,78
+778,Ichabod Roydon,49,Female,528-319-8635,Chittor,26.10.2022,Books,97706,cash,11
+779,Skylar Coyle,28,Female,930-447-0549,Guntur,9.10.2022,Groceries,55427,cash,78
+780,Octavius Fickling,60,FEmale,800-831-8865,VIJayawada,5.8.2023,electronics,46302,cash,26
+781,Madalena Josey,21,FEmale,131-917-5524,VIJayawada,25.6.2022,Books,18917,cash,15
+782,Riane Kerman,33,MAle,486-674-3438,KUrnool,1.11.2022,Groceries,37301,CAsh,7
+783,Kaine Lealle,28,Male,756-635-7181,Chittor,22.7.2021,electronics,83917,credit card,90
+784,Rhianon Darlaston,53,Female,625-898-7333,VIJayawada,26.6.2022,Home Appliances,16803,cash,35
+785,Stavros Petley,60,Female,107-723-1785,Guntur,4.12.2022,Books,15546,cash,66
+786,Ray Griswaite,33,femal,470-973-2708,Vijayawada,18.10.2023,Home Appliances,91631,credit card,99
+787,Mina Janecek,60,femal,378-544-1135,Kurnool,14.4.2021,Groceries,61829,CAsh,73
+788,Michele Mc Carrick,18,Female,623-128-7793,Kurnool,1.3.2022,books,56594,CAsh,15
+789,Stacee Mobbs,41,femal,399-817-9663,Kurnool,3.6.2021,Books,61730,cash,54
+790,Michele Biaggiotti,22,,878-283-0486,Chittor,11.9.2023,Electronics,39504,CAsh,13
+791,Sampson Pasque,43,Male,250-444-3280,Vizag,11.10.2021,electronics,97807,mobile payment,59
+792,Jeanne Oddboy,40,Female,516-910-4607,Vizag,4.12.2023,Groceries,78747,cash,82
+793,Frank Siebart,16,Male,404-192-6224,Vizag,27.3.2022,Home Appliances,36148,cash,24
+794,Henrietta Wimbridge,50,femal,686-460-5269,KUrnool,21.11.2023,Toys,22812,cash,15
+795,Monique Danby,33,,775-456-1435,Vijayawada,21.2.2021,books,54817,mobile payment,81
+796,Immanuel Gori,58,femal,376-806-1299,Vijayawada,18.3.2021,electronics,81197,cash,75
+797,Boony Peers,17,FEmale,750-227-8145,Kurnool,10.2.2023,Grocy,65591,credit card,10
+798,Ruth Cahalin,36,FEmale,487-535-7046,KUrnool,18.6.2023,Clothing,26663,credit card,44
+799,Eden Timmins,38,Female,124-556-1691,Vizag,5.3.2022,Books,20184,cash,33
+800,Deloria Ferschke,31,,913-986-8331,Vizag,23.4.2023,Groceries,,credit card,13
+801,Adoree Gobbet,18,Female,613-470-0525,KUrnool,9.4.2023,Toys,95881,CAsh,41
+802,Donavon Gallelli,21,,354-905-3849,Guntur,1.7.2021,books,46953,cash,63
+803,Aleta Brendel,60,Female,175-373-1928,Vizag,28.8.2022,Toys,49533,credit card,31
+804,Avictor Pethybridge,44,,111-297-5906,KUrnool,15.10.2023,Toys,36202,mobile payment,36
+805,Edouard Agutter,30,Female,635-670-7414,Guntur,18.6.2021,Electronics,99095,credit card,66
+806,Rafferty Alexsandrov,38,femal,496-911-8586,Vizag,5.10.2021,Clothing,30800,credit card,96
+807,Linea Pratte,19,FEmale,580-815-7104,KUrnool,13.11.2021,Toys,39012,cash,39
+808,Shermy Chittleburgh,41,,286-741-2597,Vijayawada,6.11.2021,Grocy,10316,cash,39
+809,Florenza Legan,24,FEmale,856-502-2465,Kurnool,8.2.2022,Clothing,52633,mobile payment,41
+810,Hirsch Rolls,20,MAle,907-871-2753,Chittor,25.1.2021,Grocy,16268,credit card,61
+811,Horst Kener,47,FEmale,624-794-9930,Guntur,15.6.2021,Books,,cash,29
+812,Devora Fifield,40,femal,364-561-0744,Guntur,11.8.2022,Books,12088,CAsh,28
+813,Miof mela Ife,60,,641-401-5021,Guntur,2.5.2022,Books,69358,credit card,57
+814,Ema Fruin,49,MAle,877-889-4187,Chittor,29.3.2021,Books,36183,cash,21
+815,Clementina Deevey,37,femal,571-405-5271,Vizag,14.8.2023,books,58688,mobile payment,21
+816,Jamie Stitcher,18,Female,362-495-0493,Chittor,29.9.2022,electronics,60140,mobile payment,3
+817,Gun Fishlee,20,FEmale,267-348-5168,Kurnool,24.7.2021,Books,88142,credit card,48
+818,Rudyard Kinrade,22,,439-235-2025,Vijayawada,27.8.2021,Toys,45092,CAsh,67
+819,Kevyn Culleton,18,femal,798-327-4474,KUrnool,29.5.2022,Groceries,47319,cash,6
+820,Doti Thomasen,20,Female,441-202-4868,VIJayawada,10.8.2023,books,82936,credit card,62
+821,Elvina Paradin,54,MAle,607-427-8658,VIJayawada,7.1.2021,Home Appliances,25618,mobile payment,50
+822,Law Boost,45,FEmale,630-868-1673,Guntur,16.6.2023,Groceries,44281,cash,89
+823,Kit Feenan,59,FEmale,988-196-4706,Kurnool,16.8.2022,Groceries,33495,credit card,52
+824,Moe Couroy,16,femal,527-758-2100,Vizag,21.3.2023,Electronics,73512,CAsh,78
+825,Elinore Longhi,60,femal,280-654-3967,Chittor,26.7.2022,Books,22891,CAsh,26
+826,Paulo Vedeshkin,53,Female,550-209-7911,VIJayawada,16.5.2023,Toys,41765,CAsh,21
+827,Maggie Tomley,46,Female,588-911-0875,VIJayawada,15.11.2021,,18117,credit card,22
+828,Garrik O'Currine,20,Female,542-111-6356,KUrnool,17.2.2022,,17894,cash,89
+829,Fifine Scholling,52,femal,654-242-2698,Chittor,29.11.2021,Grocy,23635,cash,8
+830,Ode Dorie,43,femal,926-906-4977,Guntur,2.9.2022,Clothing,74568,mobile payment,14
+831,Ancell Cropton,60,femal,327-290-3747,Chittor,12.10.2022,Electronics,85292,cash,30
+832,Casandra Oganesian,47,femal,865-425-2709,Vizag,28.9.2023,Clothing,34583,cash,75
+833,Carma Lowerson,17,Female,199-836-9806,KUrnool,24.7.2023,Home Appliances,79844,mobile payment,22
+834,Nadiya Jakovijevic,44,,318-511-3165,Vizag,16.1.2023,Groceries,38032,credit card,18
+835,Sydney Lantry,49,MAle,567-202-5923,KUrnool,24.10.2021,Clothing,30961,credit card,62
+836,Goldy De Michele,22,MAle,388-929-5753,Vijayawada,26.8.2023,books,84836,mobile payment,56
+837,Koo Fallens,15,FEmale,380-570-9176,Vijayawada,7.7.2023,Grocy,51321,CAsh,83
+838,Geoffry Vernham,44,Male,841-660-6803,,13.4.2022,electronics,84258,CAsh,78
+839,Willetta Squibb,37,femal,829-509-8566,Guntur,3.3.2021,Electronics,31156,CAsh,22
+840,Leonardo Toy,57,femal,192-135-1330,VIJayawada,19.10.2023,Books,18347,mobile payment,70
+841,Karine Keemar,52,MAle,685-803-8928,VIJayawada,19.10.2023,books,18617,CAsh,13
+842,Madella Flear,27,Male,460-570-0419,Vijayawada,29.1.2021,Electronics,19740,credit card,49
+843,Price Slot,23,femal,560-913-9947,Chittor,10.9.2022,Home Appliances,58185,cash,18
+844,Boris Antonin,55,MAle,215-107-5627,KUrnool,20.3.2021,Home Appliances,55957,CAsh,28
+845,Maddy Ick,51,FEmale,674-871-7497,Vizag,10.2.2023,Toys,36051,mobile payment,81
+846,Savina Huskinson,36,femal,565-768-5598,KUrnool,10.6.2023,Books,42233,cash,100
+847,Allen Quainton,36,,873-408-0691,Vijayawada,26.4.2023,Toys,76083,cash,66
+848,Moina Rahl,39,Male,127-337-2973,KUrnool,2.7.2021,Electronics,13624,credit card,14
+849,Sheffy Fri,58,Female,312-460-7772,Vizag,26.1.2022,Toys,63751,credit card,31
+850,Sherilyn Halso,39,MAle,463-328-1816,Chittor,3.3.2023,electronics,77165,credit card,5
+851,Sanders Callingham,35,FEmale,879-423-9400,Vizag,11.4.2021,Toys,48598,cash,53
+852,Hayes Rosencwaig,59,Male,528-339-3105,Kurnool,21.9.2021,Home Appliances,98470,cash,97
+853,Dierdre Vasichev,59,Male,631-942-3001,VIJayawada,24.10.2021,Home Appliances,,CAsh,97
+854,Sawyer Farnell,36,Female,464-979-9219,Kurnool,13.9.2023,Home Appliances,95790,mobile payment,36
+855,Chelsey Moors,55,Female,748-929-3365,VIJayawada,28.5.2023,Home Appliances,75125,mobile payment,45
+856,Rahel Gladdish,22,,217-146-2101,Vizag,11.9.2022,Clothing,24126,credit card,3
+857,Farrell Khidr,37,Male,469-205-2577,VIJayawada,23.11.2022,Toys,62990,mobile payment,27
+858,Yevette Gricks,30,FEmale,742-439-3595,KUrnool,2.10.2021,Home Appliances,10396,cash,75
+859,Bartel Currao,57,femal,775-355-6512,VIJayawada,21.7.2022,electronics,60289,CAsh,11
+860,Ephrem Tomlins,57,FEmale,325-928-0419,VIJayawada,2.3.2022,Toys,97634,mobile payment,19
+861,Stephen Pink,55,femal,791-718-1177,Kurnool,16.1.2021,electronics,79108,cash,52
+862,Catharina Shepley,39,,398-115-1201,Vizag,2.6.2022,Clothing,86003,mobile payment,91
+863,Emili Saltsberger,21,,608-831-5048,KUrnool,13.3.2021,Electronics,92887,credit card,37
+864,Johnathan Seldon,32,femal,816-602-5092,KUrnool,22.7.2023,Clothing,26205,mobile payment,95
+865,Gianna Croot,53,Female,197-733-2167,KUrnool,8.8.2021,Groceries,19931,CAsh,61
+866,Aime Sorbey,30,Female,465-175-9735,Vijayawada,18.3.2021,Groceries,60919,CAsh,8
+867,Hailey Dunlop,53,MAle,205-103-9281,Vijayawada,30.8.2022,Clothing,18717,cash,41
+868,Nicol Cursey,53,MAle,328-721-9198,Guntur,3.3.2022,books,72802,CAsh,90
+869,Demetre D'eathe,44,Female,382-764-9083,Chittor,13.4.2021,books,99129,CAsh,53
+870,Melisande Collingwood,51,Male,703-808-9895,Kurnool,21.3.2021,Grocy,73615,credit card,95
+871,Colline Puttrell,42,Female,971-137-3212,,18.9.2023,Electronics,78170,cash,55
+872,Alva Redemile,27,,903-587-4723,VIJayawada,4.8.2021,Electronics,14403,cash,41
+873,Mathe Trood,19,femal,861-557-3951,VIJayawada,13.9.2023,Toys,77161,mobile payment,1
+874,Carlynne Goodrum,21,,770-606-5097,Chittor,21.2.2023,Groceries,70241,cash,11
+875,Morie Vollam,50,FEmale,797-351-2423,KUrnool,28.10.2021,electronics,55205,cash,75
+876,Hector Gwynne,22,,305-752-6629,KUrnool,4.12.2021,electronics,79715,mobile payment,79
+877,Beverlie Cubberley,43,femal,451-620-5421,KUrnool,6.5.2021,Books,26362,mobile payment,83
+878,Ricca Kingwell,17,Male,559-191-4904,VIJayawada,30.5.2023,Grocy,97585,cash,10
+879,Glennis Tabbernor,29,Male,289-794-9948,Guntur,16.8.2023,Electronics,22409,CAsh,48
+880,Daloris Tallent,20,MAle,461-211-6614,Chittor,8.2.2021,Home Appliances,92481,CAsh,74
+881,Umeko Gregorowicz,38,Female,367-674-7144,Vijayawada,1.6.2021,Books,42410,mobile payment,100
+882,Martie Boate,33,Female,757-468-9515,,3.11.2023,electronics,34748,mobile payment,14
+883,Camile Saldler,17,,743-398-3124,Chittor,15.3.2022,Electronics,65037,cash,52
+884,Curtis Leavold,24,Male,193-431-8965,Chittor,28.4.2022,electronics,17066,CAsh,78
+885,Fabien Bushby,30,femal,577-171-8737,Vizag,2.12.2021,electronics,20537,cash,49
+886,Terrijo Farrans,48,MAle,984-897-7629,Chittor,7.3.2022,Toys,62780,cash,90
+887,Aaron Tigwell,36,Female,555-256-1216,VIJayawada,19.4.2022,Home Appliances,92416,credit card,30
+888,Jody Favel,41,femal,568-927-2835,Chittor,30.3.2023,books,75103,credit card,37
+889,Bernadine Down,52,MAle,173-142-0087,VIJayawada,22.12.2022,Clothing,97139,cash,65
+890,Drucill Lilleyman,29,femal,967-117-9155,KUrnool,24.7.2023,Grocy,,CAsh,89
+891,Garrett Thirlaway,53,Male,494-213-6630,Chittor,14.9.2021,Grocy,,credit card,78
+892,Happy Gradly,55,Female,511-214-0584,,16.11.2022,Toys,48028,CAsh,1
+893,Daisy Sreenan,45,FEmale,198-946-1314,Vijayawada,2.6.2021,Home Appliances,55100,credit card,71
+894,Ginnie Chatenier,33,Female,378-687-9839,Kurnool,7.5.2022,,43406,cash,63
+895,Mellie Dwelly,40,Female,262-620-1924,Vizag,9.6.2021,Toys,26907,mobile payment,80
+896,Chandra Ginty,20,Male,933-276-8529,Kurnool,24.9.2021,Grocy,53370,mobile payment,74
+897,Carlin Wessel,30,MAle,645-608-8237,Vijayawada,9.4.2021,Grocy,18550,CAsh,82
+898,Arluene Dabnot,16,Male,916-162-5426,KUrnool,22.8.2023,books,56656,CAsh,77
+899,Debra Redmore,28,,796-466-3220,Chittor,13.4.2021,Toys,76710,mobile payment,93
+900,Templeton Chitter,24,Male,564-655-2262,VIJayawada,12.12.2021,Clothing,45378,mobile payment,6
+901,Hector Lutty,41,MAle,499-262-5012,Kurnool,16.2.2021,books,24572,cash,26
+902,Ely Worsnap,59,Male,246-104-1249,Kurnool,24.9.2022,Electronics,49101,credit card,20
+903,Timi Voller,40,,810-374-3242,Kurnool,10.1.2023,books,,CAsh,45
+904,Michell Beddow,42,femal,236-811-3650,Vijayawada,8.3.2022,electronics,86908,CAsh,26
+905,Colman Davydzenko,35,Male,214-261-6563,Vijayawada,24.4.2022,Groceries,98001,mobile payment,84
+906,Cheri Frizzell,42,,640-283-2707,Kurnool,2.2.2023,Home Appliances,28327,credit card,86
+907,Rafi Wrathmell,59,MAle,478-843-9491,KUrnool,26.1.2022,Clothing,20511,mobile payment,72
+908,Neils Barbie,38,Male,837-798-7943,,30.1.2021,Clothing,78993,credit card,39
+909,Pablo Andrioli,53,,376-890-5887,VIJayawada,26.8.2022,Clothing,77401,credit card,100
+910,Livvyy Blare,20,FEmale,608-891-7950,Guntur,4.2.2022,Books,66315,credit card,19
+911,Linn Robeiro,29,FEmale,174-972-9689,Kurnool,14.3.2022,Clothing,41266,cash,66
+912,Marlon Rollingson,30,Female,414-455-9025,VIJayawada,18.3.2023,books,13527,credit card,16
+913,Barbara Wyeth,56,MAle,789-742-3213,Kurnool,23.9.2023,books,12756,cash,43
+914,Glynn Paternoster,31,Female,373-258-7094,Guntur,8.2.2021,electronics,61646,mobile payment,61
+915,Leticia Renshall,49,femal,565-121-3034,Vijayawada,11.4.2023,Electronics,33610,CAsh,15
+916,Suzanne Klebes,51,,452-226-6511,VIJayawada,12.6.2023,Clothing,84053,mobile payment,41
+917,Isador Bardell,42,,477-743-7262,Vizag,24.4.2021,Grocy,45374,credit card,54
+918,Emili Millard,47,femal,946-481-1632,Vizag,30.7.2022,electronics,61669,mobile payment,99
+919,Woodman Leall,56,Male,661-655-5437,Guntur,2.4.2021,Home Appliances,12563,mobile payment,77
+920,Beverie Creasy,28,MAle,352-772-5838,KUrnool,8.3.2021,Electronics,18717,mobile payment,80
+921,Kimmi Sommerscales,24,Female,640-911-4422,KUrnool,16.10.2023,Groceries,34060,cash,19
+922,Frederique Measham,49,femal,787-627-6264,KUrnool,26.6.2021,Home Appliances,26822,CAsh,36
+923,Marylee Samms,17,,202-532-3921,Kurnool,8.10.2023,electronics,17995,CAsh,87
+924,Zilvia Kharchinski,60,FEmale,547-720-2916,KUrnool,18.9.2023,books,92863,cash,23
+925,Ilse Genever,59,Female,969-355-8386,Chittor,12.9.2022,Grocy,88713,cash,1
+926,Catherina Tulk,45,MAle,404-389-7644,VIJayawada,25.10.2022,Groceries,,CAsh,24
+927,Nessi Godman,20,Female,656-847-9821,Chittor,8.12.2022,Books,34346,CAsh,70
+928,Jephthah Alexandrou,58,Female,507-210-5580,KUrnool,11.5.2023,Groceries,83771,mobile payment,45
+929,Rossy Poley,48,MAle,969-496-7837,Chittor,14.1.2023,Clothing,31302,credit card,76
+930,Zonda Souten,43,femal,922-293-5655,Guntur,25.12.2023,Toys,29082,credit card,61
+931,Shelli Itzchaki,19,Male,416-342-0208,Chittor,6.3.2022,electronics,76999,cash,16
+932,Zsa zsa Hanniger,40,MAle,597-689-1695,Vizag,29.1.2023,Grocy,72550,mobile payment,58
+933,Carver Duckfield,33,FEmale,623-449-6343,Kurnool,1.10.2023,Electronics,14143,mobile payment,20
+934,Isac Torrance,19,FEmale,829-511-7686,Vizag,31.7.2021,Grocy,26060,CAsh,74
+935,Gusella Bontine,43,Female,719-519-7560,Chittor,2.8.2023,Electronics,22751,credit card,5
+936,Bordie Inchboard,24,FEmale,969-359-9447,Vizag,19.3.2021,Books,70067,CAsh,58
+937,Wendell McCarthy,57,,316-139-5215,Chittor,30.10.2023,Groceries,23769,mobile payment,55
+938,Angela Wynes,58,femal,724-300-0740,Vijayawada,2.10.2021,Grocy,30064,mobile payment,66
+939,Eloisa Leversha,27,Female,542-903-9972,VIJayawada,4.3.2022,Clothing,40696,mobile payment,73
+940,Abbe Macer,29,,773-905-6206,Kurnool,20.6.2021,,28188,CAsh,45
+941,Mortimer Malinowski,30,MAle,643-263-7440,Vijayawada,6.11.2023,books,87749,CAsh,76
+942,Bernardina Lanning,18,Male,764-573-5101,Guntur,29.1.2021,Electronics,70442,CAsh,74
+943,Jana Coffey,60,,452-926-6219,KUrnool,10.3.2021,books,94156,mobile payment,23
+944,Lawrence Hamnett,50,femal,734-565-4963,Vijayawada,12.3.2023,Home Appliances,98722,mobile payment,72
+945,Marilin Kilsby,45,FEmale,122-104-5227,Chittor,18.1.2023,Electronics,91662,credit card,73
+946,Ennis Stobo,32,FEmale,919-558-0951,Guntur,3.9.2023,Groceries,58307,mobile payment,55
+947,Alex Trime,41,femal,330-676-7953,Kurnool,11.5.2023,Home Appliances,32112,cash,89
+948,Konstance Passie,58,FEmale,433-759-4493,KUrnool,25.1.2023,electronics,63314,CAsh,92
+949,Merilyn Franschini,42,femal,237-723-9579,Kurnool,13.11.2022,Electronics,93842,credit card,19
+950,Gerry Oliphand,16,MAle,463-934-3631,KUrnool,6.3.2021,Books,12967,credit card,82
+951,Shirlee Crocket,33,,530-388-1730,Chittor,8.8.2021,Groceries,15703,credit card,22
+952,Cecelia Obispo,48,MAle,758-306-6848,VIJayawada,26.10.2023,books,85058,credit card,10
+953,Ramon Featherbie,55,MAle,462-212-9624,Guntur,26.1.2023,Toys,12898,CAsh,6
+954,Fulvia Longo,42,Female,830-860-7163,VIJayawada,17.8.2023,Toys,87305,cash,13
+955,Sara Boother,22,MAle,713-452-2967,,26.10.2022,Groceries,76008,CAsh,48
+956,Ulrick Bickford,52,MAle,293-765-9758,Vizag,30.11.2021,Groceries,16040,credit card,92
+957,Emmy Pay,56,FEmale,800-756-8528,Guntur,17.4.2021,Toys,97640,credit card,83
+958,Corissa Musto,44,,833-666-5556,KUrnool,25.11.2023,Books,51333,mobile payment,55
+959,Benji Coping,54,,650-175-9407,Chittor,2.2.2021,Electronics,50005,mobile payment,13
+960,Clarice Dronsfield,57,MAle,567-573-4715,Vizag,27.9.2021,Clothing,63923,cash,75
+961,Livvy Whitehorne,24,FEmale,825-237-7028,Vizag,2.11.2022,Books,24679,cash,90
+962,Rudolf Jent,54,femal,293-168-9800,Vijayawada,27.5.2022,,21633,credit card,41
+963,Laurie Songhurst,16,MAle,802-852-9467,Chittor,4.12.2022,electronics,94384,cash,13
+964,Gael Yo,36,femal,104-470-4329,Guntur,27.1.2022,Grocy,67567,credit card,20
+965,Carie Moutray Read,20,FEmale,931-356-2503,Chittor,17.5.2023,Groceries,62889,mobile payment,31
+966,Caz Pettifor,56,FEmale,604-739-9532,Chittor,16.11.2022,books,42840,mobile payment,10
+967,Sergei Pabelik,43,Male,284-417-5328,Guntur,26.9.2021,Electronics,25926,credit card,16
+968,Orelia O'Kerin,27,Female,328-664-5964,Vijayawada,19.2.2021,electronics,52642,cash,36
+969,Bella Cockle,49,Male,984-970-5022,Guntur,23.1.2021,Grocy,17967,mobile payment,90
+970,Matelda Hunstone,29,,517-261-3433,Chittor,24.10.2021,Clothing,,mobile payment,24
+971,Clemmy Mordie,35,FEmale,958-304-7075,Vijayawada,21.6.2021,Electronics,69308,mobile payment,55
+972,Christopher Barton,23,femal,339-746-9545,Vizag,13.11.2023,Clothing,77532,cash,9
+973,Shandie Spring,17,MAle,384-945-1713,Vizag,3.2.2023,Electronics,52586,credit card,8
+974,Brig Cattellion,51,femal,955-591-7308,Kurnool,14.2.2023,,96046,CAsh,17
+975,Cecily Monnoyer,48,femal,284-985-9845,VIJayawada,11.1.2021,Grocy,44903,CAsh,87
+976,Freeman Wathey,36,,513-858-1942,Vijayawada,24.1.2022,Groceries,,mobile payment,10
+977,Jervis Woodeson,44,MAle,162-813-5218,KUrnool,12.8.2023,Toys,52371,credit card,7
+978,Odo Solomonides,51,Male,988-726-0939,Chittor,26.3.2023,Groceries,50713,mobile payment,19
+979,Christye Gowanson,53,MAle,198-284-4020,VIJayawada,9.3.2023,Toys,42126,credit card,39
+980,Doralyn Durbridge,26,FEmale,858-268-4694,Vizag,25.6.2021,books,62320,mobile payment,43
+981,Selestina Bruckman,43,MAle,917-407-4808,Guntur,13.10.2023,Toys,79817,credit card,41
+982,Hatty Karpenya,16,Female,501-502-5190,Kurnool,13.1.2021,Toys,77827,credit card,70
+983,Emyle Cotsford,42,femal,613-749-3721,Guntur,3.4.2022,Home Appliances,86887,cash,69
+984,Symon Wines,56,Female,209-419-6213,KUrnool,9.12.2023,Home Appliances,89896,mobile payment,63
+985,Kellby Brewin,26,MAle,147-131-1210,Chittor,5.7.2023,electronics,52429,cash,44
+986,Blake Gligori,36,MAle,894-254-9928,Vizag,16.7.2023,Clothing,33351,credit card,19
+987,Land Rowena,39,,407-800-6183,Kurnool,31.10.2021,,36266,mobile payment,64
+988,Kristoforo Zoren,47,femal,521-264-1816,VIJayawada,6.8.2021,Books,39590,credit card,32
+989,Lily Di Biasi,21,,264-332-5567,KUrnool,2.7.2021,Toys,95748,CAsh,86
+990,Glen Ferriday,40,Male,308-754-0255,Vijayawada,19.2.2022,Toys,,CAsh,71
+991,Carlyn Darell,31,MAle,347-147-8930,,1.10.2021,Toys,91491,credit card,6
+992,Freemon Purkis,34,Female,532-261-6435,VIJayawada,18.11.2021,Grocy,56351,cash,7
+993,Amaleta Grim,46,,136-786-7153,Vizag,9.1.2023,books,43544,credit card,82
+994,Lynna Queen,29,,433-971-4046,KUrnool,10.6.2023,books,23210,mobile payment,60
+995,Llywellyn Enoksson,48,Male,921-813-8190,KUrnool,29.5.2021,Electronics,22630,cash,59
+996,Dosi McKinnon,48,FEmale,853-325-7208,Vijayawada,5.6.2021,,46612,credit card,4
+997,Elladine Loadwick,46,Male,339-311-9405,Vizag,14.2.2022,books,86921,mobile payment,47
+998,Kevyn Bellocht,37,femal,540-228-5513,Guntur,20.1.2023,Books,99819,cash,27
+999,Guthry Jori,54,MAle,827-162-2096,Guntur,8.7.2021,Clothing,94608,credit card,24
+1000,Nelie Grimoldby,37,FEmale,824-455-8877,Vijayawada,12.11.2023,Groceries,,cash,84
