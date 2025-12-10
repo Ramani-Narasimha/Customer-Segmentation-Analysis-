@@ -29,7 +29,8 @@ The analysis includes:
 - Loyalty Score
 - Purchase Amount
 - Profit Estimate
-and more 
+and more
+
 ✔ Applied preprocessing:
 - Handling missing values  
 - Formatting inconsistent fields  
