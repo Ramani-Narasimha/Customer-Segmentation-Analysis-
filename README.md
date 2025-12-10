@@ -70,6 +70,7 @@ Dashboard highlights:
 - Loyalty-based customer segmentation
 
 Advanced visual elements:
+
 ⭐ Gauge metrics  
 ⭐ Button-based slicers  
 ⭐ Visual-level filtering for top categories  
