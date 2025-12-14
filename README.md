@@ -78,8 +78,7 @@ Advanced visual elements:
 ⭐ Date-based slicers (year, month, day, quarter)
 
 Refer to this screenshot inside `/dashboard` folder:
-![Dashboard Preview](dashboard/Segmentation_Dashboard_Overview.png)
-
+dashboard
 
 ---
 
