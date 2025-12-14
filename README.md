@@ -130,7 +130,7 @@ dashboard/
 ## 🚀 Outcome Summary
 Insights generated:
 - Older Adults & Adults contribute highest total spend  
-- Groceries, Electronics & Books are top product categories   
+- Groceries, Electronics & Books are top product categories by age group
 - Location-wise revenue variation observed  
 - Customer clusters help target valuable segments  
 
